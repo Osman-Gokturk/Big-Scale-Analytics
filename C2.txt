@@ -1,14 +1,271 @@
-L�apprentissage du code et plus largement d�une culture g�n�rale du num�rique � l��cole est une mesure r�clam�e depuis longtemps par l�Acad�mie des sciences, soutenue par des acteurs qui comptent dans le secteur num�rique. [�] Selon un sondage publi� en mai dernier par BVA (soci�t� fran�aise de sondages) et le Syntec Num�rique (f�d�ration professionnelle du secteur informatique) favorable � la mesure, 87 % des Fran�ais seraient m�me d�accord pour que la programmation informatique soient enseign�e � l��cole (24 % � partir du primaire, 41 % � partir du coll�ge). Mais cette initiative suscite par ailleurs beaucoup de r�ticences. On entend souvent l�argument selon lequel on n�a pas besoin de conna�tre la m�canique pour apprendre � conduire. Le nombre insuffisant de professeurs form�s est �galement un frein pour beaucoup d�adversaires de cette mesure, qui la jugent inapplicable. Entre ceux qui ne jurent que par l�introduction de l�informatique dans l�enseignement obligatoire, et ceux qui ont peur que l�on veuille transformer le primaire en une grande �cole d�informatique, il existe pourtant des pistes pour initier les enseignants et favoriser un passage du p�riscolaire au scolaire, sans avoir � attendre une r�forme du socle commun* qui prendra des ann�es. L�action de la fondation La Main � la p�te, qui �uvre depuis pr�s de 20 ans pour enseigner la science diff�remment � l��cole, est un exemple dont on pourrait s�inspirer.�
+L’apprentissage du code et plus largement d’une culture générale du numérique à l’école est une mesure réclamée depuis longtemps par l’Académie des sciences, soutenue par des acteurs qui comptent dans le secteur numérique. […] Selon un sondage publié en mai dernier par BVA (société française de sondages) et le Syntec Numérique (fédération professionnelle du secteur informatique) favorable à la mesure, 87 % des Français seraient même d’accord pour que la programmation informatique soient enseignée à l’école (24 % à partir du primaire, 41 % à partir du collège). Mais cette initiative suscite par ailleurs beaucoup de réticences. On entend souvent l’argument selon lequel on n’a pas besoin de connaître la mécanique pour apprendre à conduire. Le nombre insuffisant de professeurs formés est également un frein pour beaucoup d’adversaires de cette mesure, qui la jugent inapplicable. Entre ceux qui ne jurent que par l’introduction de l’informatique dans l’enseignement obligatoire, et ceux qui ont peur que l’on veuille transformer le primaire en une grande école d’informatique, il existe pourtant des pistes pour initier les enseignants et favoriser un passage du périscolaire au scolaire, sans avoir à attendre une réforme du socle commun* qui prendra des années. L’action de la fondation La Main à la pâte, qui œuvre depuis près de 20 ans pour enseigner la science différemment à l’école, est un exemple dont on pourrait s’inspirer. 
 
-La Fondation La Main � la p�te a �t� cr��e en 2011, dans la continuit� de l�op�ration du m�me nom lanc�e en 1995 par l�Acad�mie des sciences � l�initiative du prix Nobel de physique, Georges Charpak. Cette action avait pour objectif, d�s l�origine, d�aider les professeurs � enseigner la science et la technologie en mettant en �uvre une p�dagogie privil�giant l�exp�rimentation, la discussion, une pratique active et collective. L�id�e �tait de stimuler chez les �l�ves l�esprit scientifique et les capacit�s d�expression, de favoriser leur compr�hension du monde, et de leur permettre de mieux jouer leur r�le de citoyen en proposant des projets p�dagogiques orient�s vers des questions de soci�t� (�ducation � la sant�, au d�veloppement durable...). Chacun de ces projets touche en moyenne 10 000 classes. Un beau succ�s. Une des originalit�s de la fondation est d�impliquer la communaut� scientifique dans la cr�ation des ressources p�dagogiques, l�accompagnement des classes et la formation continue des enseignants. � Ce qui n�a l�air de rien mais constituait une v�ritable r�volution de palais � l��poque, au minist�re de l��ducation nationale �, confie David Wilgenbus, responsable du secteur production de ressources � La Main � la p�te. Un enseignement fond� sur l�exp�rimentation et la pratique, des objectifs d�apprentissage transversaux, des actions tourn�es en priorit� vers la formation continue des enseignants, men�es en collaboration avec la communaut� scientifique et professionnelle : le travail de d�frichage r�alis� par la fondation dans le domaine des sciences pourrait s�appliquer parfaitement � la probl�matique de l�enseignement de la culture informatique.
-� vrai dire, La main � la p�te a d�j� commenc� � r�fl�chir � la question. Depuis un peu plus de trois ans, elle a commenc� � s�int�resser � l�enseignement des math�matiques en lien avec les sciences et la technologie, et, depuis deux ans, aux sciences cognitives, sous l�angle de l��ducation � la sant�. En partenariat avec l�INPES (Institut National de Pr�vention et d��ducation pour la Sant�), elle a mis en place un programme sur l�addiction aux �crans, qui aborde le fonctionnement du cerveau, � la limite des neurosciences. Il a rencontr� un grand succ�s dans les �coles. Plusieurs milliers de classes ont particip� � ce projet. � On s�est alors dit que le terrain commen�ait � �tre favorable pour l�informatique �, raconte David Wilgenbus. � Le num�rique est un pan de la science. Ce ne sont pas des math�matiques appliqu�es, ni juste de la programmation, ni de l��lectronique. � Un projet sortira dans deux ans, en partenariat avec l�INRIA (Institut National de Recherche en Informatique et en Automatique). En attendant, de petites formations d�initiation � l�algorithmique et au langage informatique, ont �t� r�alis�es, pour les professeurs des �coles et des coll�ges, les inspecteurs et les formateurs d�IUFM (Institut Universitaire de Formation des Ma�tres).�
+La Fondation La Main à la pâte a été créée en 2011, dans la continuité de l’opération du même nom lancée en 1995 par l’Académie des sciences à l’initiative du prix Nobel de physique, Georges Charpak. Cette action avait pour objectif, dès l’origine, d’aider les professeurs à enseigner la science et la technologie en mettant en œuvre une pédagogie privilégiant l’expérimentation, la discussion, une pratique active et collective. L’idée était de stimuler chez les élèves l’esprit scientifique et les capacités d’expression, de favoriser leur compréhension du monde, et de leur permettre de mieux jouer leur rôle de citoyen en proposant des projets pédagogiques orientés vers des questions de société (éducation à la santé, au développement durable...). Chacun de ces projets touche en moyenne 10 000 classes. Un beau succès. Une des originalités de la fondation est d’impliquer la communauté scientifique dans la création des ressources pédagogiques, l’accompagnement des classes et la formation continue des enseignants. « Ce qui n’a l’air de rien mais constituait une véritable révolution de palais à l’époque, au ministère de l’éducation nationale », confie David Wilgenbus, responsable du secteur production de ressources à La Main à la pâte. Un enseignement fondé sur l’expérimentation et la pratique, des objectifs d’apprentissage transversaux, des actions tournées en priorité vers la formation continue des enseignants, menées en collaboration avec la communauté scientifique et professionnelle : le travail de défrichage réalisé par la fondation dans le domaine des sciences pourrait s’appliquer parfaitement à la problématique de l’enseignement de la culture informatique.
+À vrai dire, La main à la pâte a déjà commencé à réfléchir à la question. Depuis un peu plus de trois ans, elle a commencé à s’intéresser à l’enseignement des mathématiques en lien avec les sciences et la technologie, et, depuis deux ans, aux sciences cognitives, sous l’angle de l’éducation à la santé. En partenariat avec l’INPES (Institut National de Prévention et d’Éducation pour la Santé), elle a mis en place un programme sur l’addiction aux écrans, qui aborde le fonctionnement du cerveau, à la limite des neurosciences. Il a rencontré un grand succès dans les écoles. Plusieurs milliers de classes ont participé à ce projet. « On s’est alors dit que le terrain commençait à être favorable pour l’informatique », raconte David Wilgenbus. « Le numérique est un pan de la science. Ce ne sont pas des mathématiques appliquées, ni juste de la programmation, ni de l’électronique. » Un projet sortira dans deux ans, en partenariat avec l’INRIA (Institut National de Recherche en Informatique et en Automatique). En attendant, de petites formations d’initiation à l’algorithmique et au langage informatique, ont été réalisées, pour les professeurs des écoles et des collèges, les inspecteurs et les formateurs d’IUFM (Institut Universitaire de Formation des Maîtres). 
 
-� Le but n�est pas de fabriquer une g�n�ration d�ing�nieurs informaticiens, explique David Wilgenbus. Notre pays a int�r�t � d�velopper la culture technique et scientifique. Nous vivons dans un monde interconnect�, mais rares sont les personnes qui comprennent comment �a marche. Une cons�quence, par exemple, est de ne pas conna�tre les risques que l�on encourt, notamment en termes de protection des donn�es. L�id�e est aussi de ne pas �tre passif dans ses usages de la technologie. Une machine, �a se contr�le, �a ob�it � des instructions. Mais trop de gens sont encore d�sarm�s face aux ordinateurs. � Il s�agit vraiment d�introduire l�informatique dans la culture g�n�rale. � � l��cole, on apprend plein de choses qui ne servent � rien dans la vie de tous les jours mais qui fondent une culture et un r�f�rentiel commun. La science en fait partie. �
+« Le but n’est pas de fabriquer une génération d’ingénieurs informaticiens, explique David Wilgenbus. Notre pays a intérêt à développer la culture technique et scientifique. Nous vivons dans un monde interconnecté, mais rares sont les personnes qui comprennent comment ça marche. Une conséquence, par exemple, est de ne pas connaître les risques que l’on encourt, notamment en termes de protection des données. L’idée est aussi de ne pas être passif dans ses usages de la technologie. Une machine, ça se contrôle, ça obéit à des instructions. Mais trop de gens sont encore désarmés face aux ordinateurs. » Il s’agit vraiment d’introduire l’informatique dans la culture générale. « À l’école, on apprend plein de choses qui ne servent à rien dans la vie de tous les jours mais qui fondent une culture et un référentiel commun. La science en fait partie. »
 
-� cet �gard, l�apprentissage du code, qui plus est en p�riscolaire, est limitatif. � L�avantage d�un enseignement � l��cole, ce sont les liens avec les autres mati�res, les ponts que sont capables de faire les professeurs. �tudier la diff�rence entre un langage naturel et un langage informatique, c�est int�ressant quand on enseigne le fran�ais. Pareil pour les math�matiques �, poursuit David Wilgenbus. Cette notion est tr�s importante. Etymologiquement, l�intelligence, c�est la capacit� � faire des liens.�
+À cet égard, l’apprentissage du code, qui plus est en périscolaire, est limitatif. « L’avantage d’un enseignement à l’école, ce sont les liens avec les autres matières, les ponts que sont capables de faire les professeurs. Étudier la différence entre un langage naturel et un langage informatique, c’est intéressant quand on enseigne le français. Pareil pour les mathématiques », poursuit David Wilgenbus. Cette notion est très importante. Etymologiquement, l’intelligence, c’est la capacité à faire des liens. 
 
-L��cole doit s�adapter au XXIe si�cle
-Du fait de la progression d�mographique et du d�veloppement des classes moyennes dans le monde, les syst�mes �ducatifs vont devoir former, d�ici � 2050, autant d��tudiants que durant toute l�histoire de l�humanit� r�unie. D�ici l�, � l�infosph�re � continuera son expansion vertigineuse ; la masse de connaissances double d�j� tous les deux ans. Il est donc grand temps d�anticiper et de repenser la valeur ajout�e de l�enseignement futur. L��ducation est cens�e pr�parer la jeune g�n�ration � l�avenir. Mais le fait-elle encore ? Imparfaitement, en tout cas. Une preuve en est que deux millions d�emplois en Europe, n�cessitant des comp�tences scientifiques et technologiques, ne sont pas pourvus ; rien que dans le secteur informatique, il manque cent mille programmeurs. [�] Pour de multiples raisons, l��ducation s�est focalis�e sur la sp�cialisation. Or la grande majorit� des jeunes n�auront pas � un � emploi mais � des � emplois tout au long de leur vie, surtout si l�on consid�re l�acc�l�ration des technologies et le fait que les enfants qui terminent leurs �tudes maintenant ne seront � la retraite qu�apr�s 2070. M�me � l�universit�, les �tudes sont trop focalis�es et seuls 5 % des �tudiants qui ont un doctorat occuperont une fonction acad�mique. Les autres seront-ils pour autant form�s � un m�tier ? On en doute. Trop se sp�cialiser dans un environnement qui change sans cesse, c�est comme rouler vite avec des �ill�res. [�] Dor�navant, il faut que l�enseignement s�int�resse � plusieurs disciplines � la fois. M�me si l�on admet que l�innovation sera au rendez-vous, � la crois�e des technologies � les nano-, bio-, info-, neuro-,� � on oublie encore qu�il faut �tre capable d�int�grer en m�me temps les aspects soci�taux, culturels et autres. Alors pourquoi ne pas commencer d�s l��cole ? Par exemple, l��nergie, la sant�, les transports ou le climat peuvent �tre des th�mes de synth�se int�grant la g�ographie, l�histoire, la chimie, les math�matiques, la physique� tout en �tant d�clin�s sous l�aspect culturel, artistique, juridique, politique ou �conomique. Pour pallier le manque de comp�tences transversales, la cr�ativit� dans les salles de classe de tous �ges pourrait �tre le fait des �l�ves eux-m�mes, en devenant des � proconsommateurs � � producteurs et consommateurs � de connaissances. Ceci pourrait donner lieu � des jeux interactifs, qui sont un excellent moyen de m�morisation. Cela permettrait enfin de donner plus de sens � comme un lien avec la vie de tous les jours � � des mati�res qui peuvent �tre r�dhibitoires. En effet, il n�y a pas seulement un probl�me de contenu, il y a aussi la fa�on d�enseigner et la motivation d�une finalit�. [�] La gestion de la complexit� sera bien le d�fi majeur du XXIe si�cle. Si l��ducation pr�parait � � un � avenir, il faudra qu�elle pr�pare d�s � pr�sent � � des � avenirs. [�] Qu�en est-il en effet d�une soci�t� du savoir si elle n�est pas savante ?
+L’école doit s’adapter au XXIe siècle
+Du fait de la progression démographique et du développement des classes moyennes dans le monde, les systèmes éducatifs vont devoir former, d’ici à 2050, autant d’étudiants que durant toute l’histoire de l’humanité réunie. D’ici là, « l’infosphère » continuera son expansion vertigineuse ; la masse de connaissances double déjà tous les deux ans. Il est donc grand temps d’anticiper et de repenser la valeur ajoutée de l’enseignement futur. L’éducation est censée préparer la jeune génération à l’avenir. Mais le fait-elle encore ? Imparfaitement, en tout cas. Une preuve en est que deux millions d’emplois en Europe, nécessitant des compétences scientifiques et technologiques, ne sont pas pourvus ; rien que dans le secteur informatique, il manque cent mille programmeurs. […] Pour de multiples raisons, l’éducation s’est focalisée sur la spécialisation. Or la grande majorité des jeunes n’auront pas « un » emploi mais « des » emplois tout au long de leur vie, surtout si l’on considère l’accélération des technologies et le fait que les enfants qui terminent leurs études maintenant ne seront à la retraite qu’après 2070. Même à l’université, les études sont trop focalisées et seuls 5 % des étudiants qui ont un doctorat occuperont une fonction académique. Les autres seront-ils pour autant formés à un métier ? On en doute. Trop se spécialiser dans un environnement qui change sans cesse, c’est comme rouler vite avec des œillères. […] Dorénavant, il faut que l’enseignement s’intéresse à plusieurs disciplines à la fois. Même si l’on admet que l’innovation sera au rendez-vous, à la croisée des technologies – les nano-, bio-, info-, neuro-,… – on oublie encore qu’il faut être capable d’intégrer en même temps les aspects sociétaux, culturels et autres. Alors pourquoi ne pas commencer dès l’école ? Par exemple, l’énergie, la santé, les transports ou le climat peuvent être des thèmes de synthèse intégrant la géographie, l’histoire, la chimie, les mathématiques, la physique… tout en étant déclinés sous l’aspect culturel, artistique, juridique, politique ou économique. Pour pallier le manque de compétences transversales, la créativité dans les salles de classe de tous âges pourrait être le fait des élèves eux-mêmes, en devenant des « proconsommateurs » – producteurs et consommateurs – de connaissances. Ceci pourrait donner lieu à des jeux interactifs, qui sont un excellent moyen de mémorisation. Cela permettrait enfin de donner plus de sens – comme un lien avec la vie de tous les jours – à des matières qui peuvent être rédhibitoires. En effet, il n’y a pas seulement un problème de contenu, il y a aussi la façon d’enseigner et la motivation d’une finalité. […] La gestion de la complexité sera bien le défi majeur du XXIe siècle. Si l’éducation préparait à « un » avenir, il faudra qu’elle prépare dès à présent à « des » avenirs. […] Qu’en est-il en effet d’une société du savoir si elle n’est pas savante ?
 
-On ne peut plus repenser le contenu d�une culture scolaire commune en se r�f�rant � ce qui existe ou a exist�. Nous vivons dans un univers boulevers� par les r�volutions scientifiques et technologiques, par de nouvelles pratiques culturelles. L��volution du monde nous oblige � nous ouvrir � une multitude de cultures et de visions. Nous devons nous envisager autant comme citoyens du monde que comme h�ritiers d�une vieille nation. L��volution de la famille et ses cons�quences sur l��ducation des enfants participent �galement de ce renouvellement. Il faut prendre la mesure de ces bouleversements pour repenser les contenus scolaires, les mani�res de les enseigner et de les apprendre. � Lire, �crire, compter � ne sont plus les seuls apprentissages indispensables. Nous devons apprendre une multitude de langages: scientifiques tels le num�rique, les langues �trang�res, les langages des sons et des images, le langage du corps. Communiquer et penser dans tant de langages impose � l�individu contemporain d�entrer dans des syst�mes et des r�seaux qu�il doit comprendre et hi�rarchiser. Il doit en m�me temps acqu�rir des automatismes de lecture et de production d�oraux, d��crits, d�images ou de gestes. L��cole doit former les enfants � se s�parer de leur comportement d�usagers pour leur faire adopter une position distanci�e qui les aidera � consid�rer ces langages comme des objets et des v�hicules du savoir. C�est ce d�centrage que notre syst�me �ducatif ne parvient pas � transmettre aux nombreux �l�ves en �chec.
+On ne peut plus repenser le contenu d’une culture scolaire commune en se référant à ce qui existe ou a existé. Nous vivons dans un univers bouleversé par les révolutions scientifiques et technologiques, par de nouvelles pratiques culturelles. L’évolution du monde nous oblige à nous ouvrir à une multitude de cultures et de visions. Nous devons nous envisager autant comme citoyens du monde que comme héritiers d’une vieille nation. L’évolution de la famille et ses conséquences sur l’éducation des enfants participent également de ce renouvellement. Il faut prendre la mesure de ces bouleversements pour repenser les contenus scolaires, les manières de les enseigner et de les apprendre. « Lire, écrire, compter » ne sont plus les seuls apprentissages indispensables. Nous devons apprendre une multitude de langages: scientifiques tels le numérique, les langues étrangères, les langages des sons et des images, le langage du corps. Communiquer et penser dans tant de langages impose à l’individu contemporain d’entrer dans des systèmes et des réseaux qu’il doit comprendre et hiérarchiser. Il doit en même temps acquérir des automatismes de lecture et de production d’oraux, d’écrits, d’images ou de gestes. L’école doit former les enfants à se séparer de leur comportement d’usagers pour leur faire adopter une position distanciée qui les aidera à considérer ces langages comme des objets et des véhicules du savoir. C’est ce décentrage que notre système éducatif ne parvient pas à transmettre aux nombreux élèves en échec.
+
+Que restera-t-il à la rentrée des acquis de
+l’année scolaire ? Cerveau et seau de plage
+jouent-ils les vases communicants ? Concentrés
+toute l’année sur les résultats scolaires de leurs
+enfants, les parents ne sont pas prêts à laisser les
+bains de mer ou de soleil délaver les tables de
+multiplication, les plus-que-parfait de l’indicatif
+et autres théorèmes de géométrie si chèrement
+acquis. Pour conjurer les deux mois de vacances,
+ils achètent donc leur potion en librairie pour un
+investissement moyen de 7 euros. Cela s’appelle
+cahier de vacances, et 4,5 millions d’écoliers et
+d’élèves n’ont d’autre solution que de lui trouver
+une place dans leur valise.
+Après, c’est une autre affaire. A tel point que,
+parmi les parents qui ont investi dans ces produits,
+4,4 % déclarent que leur enfant ne l’a jamais
+ouvert… et 72,2 % qu’il ne l’a utilisé qu’en partie.
+Des chiffres tirés d’une des rares enquêtes sur le
+sujet, réalisée en 2000 (publiée en 2001) par
+l’Institut de recherche sur l’économie de l’éducation (Irédu) auprès des parents de 2 500 enfants
+de l’académie de Dijon (Côte-d’Or).
+Qu’est-ce qui peut bien poser problème dans
+ces petits livrets pourtant plutôt attractifs pour que
+seuls 23,4 % de leurs détenteurs arrivent au
+bout ? Jeune retraité de l’éducation nationale,
+Roger Rougier a sa réponse. « Je les ai subis, et je
+les ai fait subir à mes enfants, jusqu’à ce que j’ose
+m’en affranchir, résume cet inventeur de produits
+plus ludiques. Je les ai abandonnés le jour où j’ai
+commencé à faire tenir des cahiers d’été à mes enfants
+et à créer des jeux avec eux. Je me souviens d’un été
+durant lequel nous nous étions beaucoup déplacés en
+caravane. En quittant chaque étape, mes enfants
+dessinaient le lieu ou une personne qu’ils y avaient
+rencontrée. A la fin des vacances, nous avons assemblé ces vignettes et créé ensemble un jeu de l’oie.
+Comme support d’échange, ça a été fantastique. Nous
+ne pouvions pas faire une partie sans que l’un d’eux
+ne raconte un épisode ou un personnage », rappelle
+celui qui, ni vu ni connu, a fait, par ce biais,
+travailler la narration à ses enfants.
+
+Fort de ce succès, Roger Rougier a continué à
+développer cette approche amusante des apprentissages. Très vite, il s’est mis à créer des fiches de
+logique. « Je l’ai fait pour ma classe parce que les
+enfants aiment raisonner, que cela les met en
+confiance et qu’ensuite ils sont disponibles pour une
+leçon », se souvient-il. Ce qui est étonnant, c’est
+que les énigmes et les problèmes conçus pour la
+classe régalent aussi les petits vacanciers. Explication de l’auteur : « Ce sont des jeux qui obligent
+à une réflexion, un travail intellectuel ; mais l’idée de
+jeu masque le côté labeur ». Vendus sous forme de
+petits formats noir et blanc, ses Jeux pour s’entraîner à raisonner (Retz) ou ses Jeux de calcul mental
+(Retz) trompent bien leur petit monde ! Pas au
+point qu’il faille en limiter la consommation, mais
+tout de même…
+D’autres éditeurs exploitent le créneau, et
+Internet regorge de sites intéressants qui permettent une approche moins scolaire, certes, mais
+tellement plus amusante, des mathématiques.
+Comme Jean-Christophe Deledicq, un informaticien fondateur de la librairie des maths, pour
+qui « il y a tellement de manières d’aimer les
+mathématiques [qu’il propose] de nombreux produits
+plus ou moins littéraires, plus ou moins ludiques ».
+Son espace virtuel, unique en son genre, fête ses
+deux ans d’existence, et propose une belle collection d’alternatives au cahier de vacances. « Si
+j’étais parent d’un collégien, je lui conseillerais de lire
+cet été Le Bizarre Incident du chien pendant la
+nuit, de Mark Haddon (Nil et Pocket Jeunesse), de
+jouer au Triolet (Editions Tilsit), qui est une sorte de
+Scrabble des nombres, deux nouveautés intéressantes. Mais d’autres pourront préférer L’Assassin
+des échecs (Le Pommier) ou Les Annales du
+Kangourou (Editions du Kangourou) ». Pour JeanChristophe Deledicq, l’essentiel est que l’enfant
+se fasse plaisir tout en révisant.
+Français et mathématiques sont – personne ne
+s’en étonnera – les deux disciplines les plus
+révisées durant l’été. Pour mieux maîtriser son
+langage en septembre qu’en juin, l’écrivain Yak
+Rivais propose une approche très personnelle qui
+n’en finit pas de séduire. Cet auteur tellement lu
+pour sa Grammaire impertinente propose aussi…
+des Jeux pour lire vite (Retz). De quoi faire aimer
+la grammaire aux plus récalcitrants ! Qui résiste
+en effet au plaisir de « schtroumpfer » son texte,
+c’est-à-dire d’y remplacer tous les verbes d’action
+et les participes passés par le verbe « schtroumpfer », correctement accordé, bien sûr ? Qui se refuserait à trouver le plus rapidement possible le mot
+le plus long d’un petit texte ? Ou à identifier des
+mots cachés… Le tout, les mains dans les poches,
+puisque le principe de ces jeux, c’est que l’enfant
+« travaille » toujours sans crayon. Il croit s’amuser, alors qu’il est en train de travailler ! Comme
+avec Les sorcières sont NRV (Ecole des loisirs), qui
+n’ont pas pris une ride depuis 1988, et où
+articles, adverbes et pronoms entrent dans une
+danse endiablée, ou encore avec LFHE la sorcière
+(Ecole des loisirs), où cette fois ce sont les adjectifs qui sont prestidigitisés. D’autres auteurs ont
+exploité ce terrain comme Erik Orsenna et ses
+Chevaliers du subjonctif, sorti à l’automne 2004.
+
+Pour Yak Rivais, le langage fait certes travailler
+le cerveau, mais aussi l’œil et l’oreille. Celui qui,
+à 65 ans, apprécie toujours autant ses visites dans
+les classes, estime que les parents ont parfois trop
+négligé des choses très simples. A ses yeux, en
+effet, tout commence avec les comptines, et si
+autant d’enfants ne maîtrisent pas suffisamment
+leur langue maternelle aujourd’hui, c’est qu’on
+a un peu oublié de les aider à développer leur
+oreille. « Comment voulez-vous demander une
+analyse grammaticale ou parler du pronom relatif à
+un enfant qui n’emploie que des propositions juxtaposées ? », regrette-t-il. Le travail sur le langage
+doit se faire tous les jours, en aidant l’enfant à
+construire des phrases de plus en plus élaborées,
+mais aussi en lui enseignant la musicalité de la
+langue très jeune grâce à ces comptines, insistet-il. Autant d’acquis essentiels qui n’interdisent
+pas la révision d’un ou deux points pour l’enfant
+qui en a vraiment besoin ou envie. L’idéal est évidemment que le parent sache sur quelles notions
+son enfant a achoppé durant l’année. Mais, attention, repartir du cours qui n’a pas été compris n’est
+pas la panacée. « Si les parents refont l’école à la
+maison, c’est perdu. C’est comme s’ils redonnaient
+des épinards à celui qui ne les aime pas. S’ils s’y prennent autrement, alors c’est un plus », note Claire,
+une enseignante de CM2.
+Comme le rappelle le directeur du laboratoire
+de psychologie cognitive de l’université de Clermont-Ferrand (Puy-de-Dôme), Michel Fayol, le
+rôle des parents n’est pas de se transformer en
+répétiteur, mais de répondre à un besoin ou à une
+envie. Une limitation d’autant plus efficace que,
+comme le rappelle le chercheur, « les apprentissages distribués sont plus efficaces que les apprentissages regroupés ». Autrement dit, il ne faut pas
+dégainer des révisions tous les jours. « Une fois par
+semaine suffit en général à ne pas oublier une ou deux
+choses, et un peu plus à la veille de la rentrée »,
+estime-t-il. Juste assez pour prendre la pleine
+mesure du bonheur d’être en vacances !
+
+
+Bonjour à tous, bienvenue dans Rue des écoles, le rendez-vous de l’éducation de France culture.
+Aujourd’hui, la classe inversée, une innovation pédagogique qui rencontre un succès sans précédent. On va vous expliquer
+de quoi il s’agit, et tenter de comprendre ce que signifie ce succès. » Héloïse Dufour bonjour !
+ Bonjour.
+Vous êtes biologiste, militante passionnée de cette pédagogie, vous allez nous expliquer pourquoi le sujet
+vous passionne. J’ajoute que vous êtes aussi fondatrice d’une association : Inversons la classe. Vincent Faillet, bonjour.
+ Bonjour.
+ Vous êtes professeur agrégé de sciences de la vie et de la terre, vous enseignez au lycée Dorian à Paris,
+dans le onzième arrondissement, et puis vous menez aussi une activité de recherche en sciences de l’éducation, notamment sur la question de la classe inversée, c’est pour ça que vous êtes avec nous aujourd’hui.
+Héloïse Dufour, donc je le disais, vous êtes biologiste. C’est parce que vous avez passé beaucoup de temps aux États-Unis
+ces dernières années que vous avez été sensibilisée à la classe inversée, une pédagogie qui est très répandue outreAtlantique ?
+ Tout à fait. Donc j’ai passé ces six dernières années aux États-Unis, et puis, là, j’ai entendu parler de la
+classe inversée par mes activités d’enseignement, et elle m’a intéressée pour deux raisons principales. La première, c’est
+que ça me paraît un moyen facilement transmissible de dépasser un enseignement transmissif. Et puis en outre, ça me
+paraît être un moyen prometteur pour lutter contre les inégalités et le décrochage scolaire. Et, comme vous le disiez, aux
+États-Unis, c’est vraiment quelque chose qui se répand à la vitesse de l’éclair.
+ Donc, on reprend la définition de la classe inversée, c’est donc apprendre hors de la classe, et faire les
+exercices avec l’enseignant, ce qui permet de mettre tous les élèves en activité. Vous dites que c’est moins inégalitaire,
+Héloïse Dufour. Pourtant, le travail à la maison, on le sait, les devoirs, c’est très inégalitaire, car tous les enfants n’ont pas
+les mêmes possibilités de travailler chez eux : possibilités matérielles, la même aide aussi disponible de la part de leurs
+parents ou de leur entourage.
+ Alors ce qui change dans la classe inversée, c’est la nature même du travail à la maison. C’est à dire que
+dans une... dans un enseignement traditionnel, ce qu’on va demander aux élèves à la maison, c’est de faire des exercices
+qui peuvent être problématiques, même s’ils ont l’aide de les, des parents, et on sait que même dans les familles plus ou
+moins en difficulté, il y a un investissement des parents important. Il peut y avoir problème de compréhension de l’énoncé
+par exemple, ou... alors que dans une classe inversée, l’idée c’est de faire un travail à la maison qui est uniquement de regarder des leçons par exemple, ou de vraiment préparer le cours. On demande... C’est un travail qui est simple, et qui ne
+demande pas de capacités spécifiques des parents, ou de... ou d’enseignants privés par exemple. Donc moi ce que j’ai fait,
+c’est que j’ai interviewé un certain nombre d’enseignants qui mettent en pratique la classe inversée, et il y en a un certain
+nombre qui, justement, se saisissent des nouvelles technologies, pour vérifier que le travail à la maison a été fait. C’est à
+dire que, en même temps qu’ils donnent des ressources à regarder ou à consulter, ils utilisent des questionnaires en ligne
+pour poser quelques questions très simples, vraiment de compréhension de base sur ce sur quoi portait la leçon, et ça leur
+permet, avant d’arriver en classe, d’une part de savoir si leurs élèves ont compris, d’autre part, s’ils ont effectivement fait le
+travail. Et pour les élèves, le fait de savoir que le prof sait, ça change les choses.
+Louise Tourret : Ah ben je trouve ça pratiquement terrifiant ! (Rires). C’est... ça fait partie des possibilités des nouvelles
+technologies, ça peut être aussi, oui, considéré comme une limite, parce que le contrôle devient, ma foi, très important. Il
+faut aussi s’intéresser aux limites de cette pédagogie. Ça demande quand même un investissement professoral différent,
+peut-être plus important, parce qu’il faut beaucoup s’impliquer, et puis il faut être très actif dans sa classe. Vincent Faillet.
+Vincent Faillet : Oui, absolument. A l’origine, Bergmann et Sams, qui ont véritablement fait découvrir la méthode, ont travaillé
+avec des capsules vidéo, donc ce qui suppose un enregistrement...
+ Il faut les fabriquer.
+ Il faut les fabriquer.
+ Pas forcément...
+Il faut avoir les compétences, la technologie, pour les fabriquer, ou utiliser des capsules déjà existantes.
+Mais en règle générale, les enseignants aiment bien travailler avec leurs propres supports. Cela suppose de totalement
+repenser la classe évidemment, puisque le cours, le modèle transmissif classique doit être fait à la maison, donc il faut
+d’autres activités en classe, des activités qui vont supposer en effet des questionnaires à choix multiple, ou éventuellement
+l’utilisation de boîtiers de vote, des ateliers. Donc c’est un travail totalement différent pour l’enseignant, ça suppose un fort
+investissement, oui.
+ Est-ce que on continue, avec cette classe inversée, à produire aussi des devoirs, des travaux un peu plus
+longs ? Là on parle de réponses à des Q.C.M, des petits exercices pour vérifier que la leçon a été comprise, mais il y a aussi
+une mobilisation de ces savoirs, traditionnellement dans la rédaction, la dissertation, dans des travaux un peu plus personnels. J’ai l’impression que on sort un peu de ces exercices, ces pratiques du champ avec la classe inversée ? Vincent Faillet.
+Vincent Faillet : Non. On n’est pas obligé de changer la façon d’évaluer les élèves. Ce qui change vraiment, c’est la façon
+de favoriser l’accès à la connaissance. L’évaluation en elle-même n’a pas lieu forcément d’être changée.
+Héloïse Dufour : Et pour beaucoup d’enseignants que j’ai rencontrés, l’idée c’est pas d’augmenter la somme de travail à la
+maison, c’est juste vraiment d’en changer la nature. En termes de dissertation, de choses comme ça, moi j’ai rencontré des
+enseignants, en français par exemple, et qui utilisent la classe inversée pour faire produire aux élèves, en classe, des textes,
+et pour vraiment travailler avec eux, sur la production d’un texte, comment est-ce qu’on fait.
+ Donc on intervient dans le travail personnel des élèves, c’est le faire avec l’élève...
+ C’est passer du face à face au côte à côte.
+ Vincent Faillet, ces pédagogies sont-elles séduisantes ? Et pourquoi le sont-elles ?
+ Alors...
+ … auprès des enseignants.
+ Elles sont séduisantes parce que c’est une rupture avec un modèle qui est ancien, c’est le modèle transmissif. Depuis le Moyen Âge, on est dans un modèle transmissif, avec l’enseignant au centre, les élèves autour, il récite le cours,
+et une cohorte d’élèves prend le cours. Donc l’idée de la classe inversée, c’est de se positionner de façon très pragmatique
+où c’est l’élève qui est au centre de la réflexion, c’est l’élève qui va construire son savoir, avec l’aide de l’enseignant et avec
+l’aide de ses camarades également. Donc c’est séduisant parce qu’on remet l’élève au centre de la classe.
+Louise Tourret : Une idée qui ne séduit pas tout le monde pourtant, mais finalement, est-ce que la classe inversée, c’est
+abolir l’idée de transmission ? Héloïse Dufour.
+Héloïse Dufour : Alors je pense que c’est là qu’il faut préciser qu’il n’y a pas un type de classe inversée. Et je pense que
+c’est pour ça que la classe inversée marche aussi bien. On peut faire une classe inversée en restant dans le transmissif. On
+peut faire une classe inversée où on...c’est toujours l’enseignant qui donne les leçons à l’élève à apprendre, c’est toujours
+l’enseignant qui donne les exercices, et simplement qui se contente d’aider les élèves en classe. Moi je trouve que la classe
+inversée, c’est plus intéressant, justement, pour faire des tâches complexes, pour vraiment mettre l’élève en situation de
+production. Mais, encore une fois, pourquoi est-ce que ça séduit tant de gens ? Je pense que moi, tous les enseignants me l’ont dit, c’est vraiment cette idée d’interaction avec les élèves. Les enseignants qui sont en classe inversée, ils parlent à tous
+leurs élèves, tous les jours. Et là on revient sur pourquoi est-ce que c’est un moyen de lutter contre le décrochage scolaire
+par exemple ? Parce que ça renforce vraiment les interactions entre les enseignants et les élèves.
+Louise Tourret : Interactions entre les élèves, on en a un peu parlé, et j’aimerais beaucoup qu’on y revienne, c’est finalement
+favoriser quelque chose qui est assez laissé de côté, c’est les pédagogies coopératives dans l’école française, pédagogies
+qui sont peut-être plus adaptées au monde actuel, au monde professionnel aussi, quel que soit le type de métier d’ailleurs
+auquel on se destine. Vincent Faillet.
+Vincent Faillet : Disons que la coopération fait partie de l’arsenal pédagogique des élèves. Surtout avec les nouvelles
+technologies. Une fois rentrés chez eux, les élèves que j’ai pu étudier au lycée Dorian vont sur des plates-formes, alors pas
+forcément les plates-formes académiques type ENT, mais vont par exemple sur Facebook, ils coopèrent, ils s’échangent des
+informations sur les cours, sur les exercices. Donc la coopération... est un mode de travail tout à fait normal pour ces élèves.
+Un mode de travail dont ils sont habituellement privés dans un enseignement transmissif. Donc le fait de leur redonner la
+parole, de réactiver quelque part une dialectique moderne où l’élève va donner son point de vue, essayer d’expliquer à son
+camarade ce qu’il pense, séduit tout à fait les élèves actuels.
+Louise Tourret : Ce qu’on peut aussi dire, c’est que l’idée de la classe inversée répond à une problématique tout à fait
+contemporaine de l’école puisqu’on voit émerger tout un marché d’applications pour apprendre. Des applications qui permettent par exemple de réviser ses tables de multiplication, on peut tout à fait le faire avec une machine, ou les verbes irréguliers, l’orthographe, les conjugaisons, on peut dialoguer avec un ordinateur qui voit le type de fautes qu’on fait, qui conseille
+en termes de ressources : où est-ce qu’il faut aller chercher ? Quelle leçon il faut consulter ? On recentre donc la mission
+enseignante sur l’humain, si je vous suis bien. C’est ça Héloïse Dufour ?
+Héloïse Dufour : Oui. Et je pense que... Là, encore une fois, je voudrais insister sur le fait que les nouvelles technologies ne
+sont vraiment pas le point principal de la classe inversée, c’est un facilitateur, mais l’idée c’est vraiment de changer ce qui se
+passe en classe, d’avoir un enseignant qui est là pour faire apprendre les élèves, leur... éventuellement même leur apprendre
+à apprendre, et...voilà.
+ L’enseignant fait quelque chose que la machine ne pourrait pas faire. Il peut voir si l’élève a compris euh,
+l’évaluer. Il y a toujours un petit peu de psychologie, il y a toujours une dimension psychologique dans le fait d’enseigner.
+Vincent Faillet, qu’est-ce que vous pensez de cette idée ?
+Vincent Faillet : Oui, c’est... on est loin de la machine à enseigner, on est vraiment, comme vous le souligniez, dans l’humain,
+et on redonne la parole à l’élève, et...la.. certes les technologies ne sont pas forcément, nécessairement présentes. On peut
+faire de la classe inversée sans technologies, mais on peut également le...la faire avec des technologies, et là je pense aux
+travaux d’Éric Masure, où il va travailler avec des boîtiers de vote, ce qui va permettre à des élèves qui habituellement ne
+s’exprimeraient pas - parce que là c’est un problème, l’expression - de pouvoir donner leur avis, de pouvoir répondre, de
+pouvoir participer à la classe. Donc on modifie complètement la psychologie de l’élève au sein même du groupe classe. Et
+des fois on a des surprises, on peut constater, je l’ai constaté moi-même, que des élèves qui pouvaient avoir l’air totalement
+effacés en fond de classe, eh bien, prenaient goût à la parole, et prenaient goût à la dialectique de façon à s’exprimer et à
+faire valoir leurs idées. Donc c’est très intéressant d’un point de vue psychologique.
+Louise Tourret : Vincent Faillet, sur, finalement, ces pédagogies qui peuvent se répandre sans contrôle institutionnel, sans
+cohérence aussi entre les enseignants ?
+Vincent Faillet : On est dans le bricolage, mais dans le bricolage dans l’esprit de Levi-Strauss, c’est à dire l’esprit noble du
+bricolage. L’enseignant, l’artisan, dans sa classe, avec ses moyens, avec sa vision, avec ses élèves, dans un univers assez
+clos, qui va mettre au point sa classe inversée. La classe inversée de Saint-Brieuc n’est sans doute pas celle de Paris...euh...
+Ce qui est intéressant, c’est que ce bricolage – c’est un bricolage évolutif – c’est François Jacob qui disait que l’évolution,
+c’est un bricolage moléculaire où l’on fait du neuf avec du vieux. Eh bien je pense qu’on est tout à fait dans ce cadre-là, et
+l’intérêt, c’est ce que c’est un bricolage qui vient de la base. Ce sont les enseignants qui s’approprient de nouvelles méthodes
+d’enseignement, et c’est assez nouveau en France. Et c’est peut-être le gage d’un, du succès. C’est à dire, ce n’est pas une
+volonté hiérarchique qui viendrait des ministères ou de l’Académie, ce sont les enseignants qui, il suffit de regarder divers blogues sur internet d’enseignants qui se posent des questions au primaire, secondaire, collège, lycée... où on se rend compte
+eh bien que l’on essaye de faire ce que l’on peut avec une emprise très proche des élèves. Donc on est dans du bricolage
+qui vient de la base, qui se répand, donc je pense que c’est quelque chose qui devrait être regardé avec grande attention de
+la part des instances académiques et ministérielles.
+Eh bien ce sera le mot de la fin, merci beaucoup Vincent Faillet, je rappelle que vous menez des recherches
+en sciences de l’éducation sur la classe inversée. Merci Héloïse Dufour, biologiste, vous avez fondé le site, l’association
+Inversons la classe. Bonne après-midi sur France culture ! 
 
