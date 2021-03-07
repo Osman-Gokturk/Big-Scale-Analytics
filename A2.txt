@@ -53,21 +53,21 @@ d’employer des personnes qui vous aident à domicile. Par exemple : pour toile
 faire votre ménage ou encore aller chercher vos enfants à l’école. En plus, vous allez payer moins
 d’impôts.» 
 
-- Bonjour Madame. Est-ce que vous êtes d’accord pour répondre à une enquête de consommation?
-- Oui, mais ce n’est pas trop long ?
-- Non, juste quelques minutes. Alors, tout d’abord quel âge avez-vous ?
-- J’ai 36 ans.
-- Très bien, et est-ce que vous avez un téléphone portable ?
-- Oui.
-- Depuis combien de temps?
-- … Depuis 2 ans, à peu près.
-- Et vous l’utilisez, un peu, beaucoup ou rarement ?
-- Oh rarement. Vous savez, je ne l’utilise que pour les cas d’urgence !
-- Et seriez-vous intéressée par l’achat d’un portable nouvelle génération avec appareil photo et accès
+ Bonjour Madame. Est-ce que vous êtes d’accord pour répondre à une enquête de consommation?
+Oui, mais ce n’est pas trop long ?
+Non, juste quelques minutes. Alors, tout d’abord quel âge avez-vous ?
+J’ai 36 ans.
+Très bien, et est-ce que vous avez un téléphone portable ?
+ Oui.
+ Depuis combien de temps?
+ Depuis 2 ans, à peu près.
+Et vous l’utilisez, un peu, beaucoup ou rarement ?
+Oh rarement. Vous savez, je ne l’utilise que pour les cas d’urgence !
+Et seriez-vous intéressée par l’achat d’un portable nouvelle génération avec appareil photo et accès
 Internet ?
-- Et bien, pourquoi pas ? Comme ça, je pourrais l’utiliser plus souvent !
-- Bien, l’enquête est terminée, madame. Je vous remercie et je vous souhaite une très bonne journée.
-- Merci, à vous aussi, au revoir. 
+Et bien, pourquoi pas ? Comme ça, je pourrais l’utiliser plus souvent !
+Bien, l’enquête est terminée, madame. Je vous remercie et je vous souhaite une très bonne journée.
+Merci, à vous aussi, au revoir. 
 
 Mesdames, messieurs, votre attention s’il vous plaît. Le vol AF 438 à destination de Paris va avoir environ 40 minutes
 de retard. La raison, ce sont les fortes pluies au départ de Madrid. Pour tout renseignement complémentaire, nous vous
@@ -86,20 +86,19 @@ livres mais aussi discuter avec le public de leur métier. Chaque année, vous p
 bas prix et, nouveauté de cette année, vous pouvez suivre une classe avec un chef ! Le billet pour un adulte coûte 10 euros
 à l’entrée du salon mais seulement 8 euros si vous l’achetez avant, sur le site Internet du salon. 
 
-– Peux-tu me donner le numéro de ton spécialiste ? Je veux prendre rendez-vous pour mon dos.
-– Le docteur Lebrun ? Oui, bien sûr ! Attends, je le cherche.
+Peux-tu me donner le numéro de ton spécialiste ? Je veux prendre rendez-vous pour mon dos.
+Le docteur Lebrun ? Oui, bien sûr ! Attends, je le cherche.
 
-– Je ne trouve pas les livres que j’ai pris à la bibliothèque…
-– Tu pourrais ranger ta chambre, ça t’aiderait à les retrouver !
+Je ne trouve pas les livres que j’ai pris à la bibliothèque…
+Tu pourrais ranger ta chambre, ça t’aiderait à les retrouver !
+Je ne comprends rien à ce site d’achat en ligne !
+Est-ce que tu veux que je regarde avec toi ?
+Oui, merci, c’est gentil !
 
-– Je ne comprends rien à ce site d’achat en ligne !
-– Est-ce que tu veux que je regarde avec toi ?
-– Oui, merci, c’est gentil !
+Je suis vraiment désolé : j’ai oublié d’acheter de la viande en rentrant !
+Ce n’est pas grave, on va manger autre chose.
 
-– Je suis vraiment désolé : j’ai oublié d’acheter de la viande en rentrant !
-– Ce n’est pas grave, on va manger autre chose.
-
- Chers auditeurs, bonjour, nous nous retrouvons aujourd’hui dans le studio de votre émission culturelle préférée, « Un monde des idées », pour poser à nos invités une question que vous vous posez tous : « l’école
+Chers auditeurs, bonjour, nous nous retrouvons aujourd’hui dans le studio de votre émission culturelle préférée, « Un monde des idées », pour poser à nos invités une question que vous vous posez tous : « l’école
 doit-elle tout enseigner ? ». Avec nous ce soir pour tenter de répondre à cette question plusieurs personnalités, tout d’abord M. Jean Cruchon, Inspecteur de l’Education nationale et auteur d’un ouvrage sorti aux éditions
 « éducation », « le miracle de l’école » ; M. Cruchon bonsoir. Mlle Marie-Paule Lesueur, lycéenne au lycée Henry
 Wallon de La Courneuve en banlieue parisienne, bonsoir, et Mme Polanque, sociologue, anthropologue et spécialiste du monde éducatif. Alors j’ai envie de vous poser une première question, l’école a-t-elle aujourd’hui la
