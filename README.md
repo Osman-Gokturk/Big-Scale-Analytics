@@ -13,6 +13,8 @@ In the paper (1), the author talks about legibility, which basically deals forma
 Looking at the wikipedia page on “BLUE” (4), we think it this is basically about the quality between human and machine made translations. When we looked at the bibliographical stuedies we had observed studies based on “corpus-based comprhensive and diagnostic evaluation”, “n-gram cooccurrence statistics”, “skip-bigram statistics”.
 
 Machine evaluation techniques can be used to infill cloze test (texts with empty places to be filled). We understand this is not restricted to guessing a right unser, bu also providing suggestions for alternatives (5).
+
+Looking the relevant shelf in the library, "Linguistic-Language Processing", we noted that mostly the research contains many linguistics terms rather than programming codes or algorithmes. This gave us a perceptions that this domain will contain textuals terms and concepts. 
  
 
 1-https://medium.com/glose-team/how-to-evaluate-text-readability-with-nlp-9c04bd3f46a2
