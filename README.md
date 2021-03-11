@@ -2,7 +2,8 @@
 This is the repository of group Omega for the BSA project. We will upload further documentation in the future.
 
 ## Milestone 1
-###Literature Review, Methodology
+### Literature Review, Methodology
+
 For the project we had searched for some paper with the key words like “foreign language” “level” and “machine learning”. 
 
 In one of the paper (1) published on the  internet site “Medium”, there were aslo links to the algorithmes like “BLEU” and “The Flesch–Kincaid readability tests ”. These are also explained in the wikipedia pages. 
@@ -18,12 +19,12 @@ Machine evaluation techniques can be used to infill cloze test (texts with empty
 
 Looking the relevant shelf in the library, "Linguistic-Language Processing", we noted that mostly the research contains many linguistics terms rather than programming codes or algorithmes. This gave us a perceptions that this domain will contain textuals terms and concepts.
 
-We have revised the  libraries from our previous course, "Data Minning and Machine Learning".  The spacy libarary provides toolls to tokenize textes into words, sentences, their part of speach(POS).  CountVectorizer class of scikit learn enables us count the words in sentences in the corpus. 
+We have revised the  libraries from our previous course, "Data Minning and Machine Learning".  The spacy libarary provides toolls to tokenize textes into words, sentences, their part of speach(POS).  CountVectorizer class of scikit learn enables us count the words in sentences in the corpus (6). 
 
 
 
 
-###Sources
+### Sources
 
 1-https://medium.com/glose-team/how-to-evaluate-text-readability-with-nlp-9c04bd3f46a2
 2- Flesch–Kincaid readability tests
@@ -37,4 +38,6 @@ https://en.wikipedia.org/wiki/BLEU
 
 5-Cloze Test
 https://en.wikipedia.org/wiki/Cloze_test
+
+6-https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
 
