@@ -1,0 +1,1330 @@
+,Text,Difficulty,Difficulty Annotator 1,Difficulty Annotator 2,Difficulty Annotator 3
+0,"Dans une maison de retraite, on ressasse ce qui est passé, alors que quand t’as une jeune, on parle de tout, de l’avenir.",,C1,C1,C1
+1,"Elle, c’est Gérarda, elle a 85 ans, et elle vit avec Séverine, 36 ans et sa fille Kéline de 8 ans.",,A1,A1,A1
+2,"Moi c’est Chloé et je vais vous raconter l’histoire de leur colocation intergénérationnelle, parce que la vieille dame, c’est ma grand-mère.",,C1,C1,C1
+3,Je vis chez Gérarda avec ma fille depuis deux ans.,,A1,A1,A1
+4,Auparavant je l’avais connue par rapport à ma formation d’infirmière.,,A2,A2,A2
+5,"Pendant les trois années d’études, je vivais déjà chez elle.",,A1,A1,A1
+6,Séverine est arrivée après une annonce que ma fille a faite.,,A1,A1,A1
+7,On s’est tout de suite très bien entendues.,,A1,A1,A1
+8,Elle est venue voir en bas si ça lui convenait.,,A1,A1,A1
+9,Est-ce que je peux chercher mes valises ?,,A1,A1,A1
+10,J’ai réservé pour deux nuits.,,A1,A1,A1
+11,Je m’appelle Monsieur Legrand.,,A1,A1,A1
+12,Je voudrais la clé s’il vous plaît.,,A1,A1,A1
+13,"Elle donne sur le jardin, vous y serez très bien.",,A1,A1,A1
+14,"Bonjour Madame, un aller simple pour Marseille.",,A1,A1,A1
+15,Vous voyagez en quelle classe ?,,A1,A1,A1
+16,Vous bénéficiez d’une réduction ?,,A1,A1,A1
+17,J’ai la carte jeune.,,A1,A1,A1
+18,"Bonjour mademoiselle, qu’est-ce que je vous sers ?",,A1,A1,A1
+19,C’est quoi le plat du jour s’il vous plaît ?,,A1,A1,A1
+20,"Parfait, alors un plat du jour, s’il vous plaît.",,A1,A1,A1
+21,"Combien coûte un kilo d’oranges, s’il vous plaît ?",,A1,A1,A1
+22,Un euro le kilo et deux euros les trois.,,A1,A1,A1
+23,"Pour aller à la mairie, s’il vous plaît ?",,A1,A1,A1
+24,Vous prenez le bus 167.,,A1,A1,A1
+25,"C’est là, au bout de la rue.",,A1,A1,A1
+26,"Merci, Monsieur.",,A1,A1,A1
+27,C’est bientôt l’anniversaire de Julie.,,A1,A1,A1
+28,Elle est née quel jour ?,,A1,A1,A1
+29,"Mesdames, votre attention, s’il vous plaît.",,A1,A1,A1
+30,Le vol AF335 au départ de Paris et à destination de Nice va partir à 15 h 40.,,A1,A1,A1
+31,Nous invitons tous les passagers à se présenter porte 28.,,A1,A1,A1
+32,Nous vous remercions de voyager sur la compagnie France Air.,,A1,A1,A1
+33,Nous vous souhaitons un bon voyage.,,A1,A1,A1
+34,"Je vous rappelle vos rendez-vous de demain, mardi.",,A1,A1,A1
+35,Vous avez rendez-vous chez le dentiste.,,A1,A1,A1
+36,"À 12 h 30, vous allez déjeuner avec Madame Seguin.",,A1,A1,A1
+37,Vous devez revenir au bureau pour la réunion avec le directeur de l’entreprise Nysol.,,A2,A2,A2
+38,Bonne soirée !,,A1,A1,A1
+39,Bonjour à tous et bienvenue à la formation.,,A1,A1,A1
+40,Je peux m’asseoir ici ?,,A1,A1,A1
+41,Asseyez-vous.,,A1,A1,A1
+42,Vous avez des petites bouteilles d’eau si vous avez soif.,,A1,A1,A1
+43,"Bonjour Dorian, ça va ?",,A1,A1,A1
+44,"Oui, ça va, merci.",,A1,A1,A1
+45,Tu vas à l’université ?,,A1,A1,A1
+46,"Oui, je commence à 8 h 30.",,A1,A1,A1
+47,Il pleut beaucoup aujourd’hui !,,A1,A1,A1
+48,Je suis le professeur Duquesnes.,,A1,A1,A1
+49,Où est la salle 33 ?,,A1,A1,A1
+50,"C’est ici, Monsieur.",,A1,A1,A1
+51,Qu’est-ce que tu penses de cette peinture ?,,A1,A1,A1
+52,J’aime beaucoup cette exposition.,,A1,A1,A1
+53,"Il est bien, ce musée !",,A1,A1,A1
+54,Je vais revenir avec les enfants la semaine prochaine.,,A1,A1,A1
+55,Tu n’as pas de stylo ?,,A1,A1,A1
+56,"Non, je ne le trouve pas !",,A1,A1,A1
+57,Il est peut-être chez moi.,,A1,A1,A1
+58,"Tiens, prends celui-ci.",,A1,A1,A1
+59,Vous vous appelez comment ?,,A1,A1,A1
+60,"Votre nom, comment ça s’écrit ?",,A1,A1,A1
+61,Parlez-moi de votre famille.,,A1,A1,A1
+62,Vous êtes marié(e) ?,,A1,A1,A1
+63,Vous avez des enfants ?,,A1,A1,A1
+64,Quel âge ont-ils ?,,A1,A1,A1
+65,Vous avez des frères et sœurs ?,,A1,A1,A1
+66,Ils habitent où ?,,A1,A1,A1
+67,Qu’est-ce qu’ils font ?,,A1,A1,A1
+68,Quelle est votre nationalité ?,,A1,A1,A1
+69,Quelle est votre ville d’origine ?,,A1,A1,A1
+70,Parlez-moi de votre maison.,,A1,A1,A1
+71,Quelle est votre profession ?,,A1,A1,A1
+72,Vous aimez votre travail ?,,A1,A1,A1
+73,Parlez-moi d’une journée habituelle.,,A1,A1,A1
+74,Vous vous levez à quelle heure ?,,A1,A1,A1
+75,Qu’est-ce que vous mangez pour le petit-déjeuner ?,,A1,A1,A1
+76,Vous rentrez à quelle heure ?,,A1,A1,A1
+77,Qu’est-ce que vous faites le soir ?,,A1,A1,A1
+78,Vous habitez loin d’ici ?,,A1,A1,A1
+79,Qu’est-ce que vous faites le samedi et le dimanche ?,,A1,A1,A1
+80,Vous aimez le sport ?,,A1,A1,A1
+81,Quel sport est-ce que vous faites ?,,A1,A1,A1
+82,Quel âge as-tu ?,,A1,A1,A1
+83,J'ai 25 ans.,,A1,A1,A1
+84,Parlez-vous français ?,,A1,A1,A1
+85,"Oui, je parle un peu.",,A1,A1,A1
+86,"Non, Je ne parle pas français.",,A1,A1,A1
+87,Tu parles bien anglais.,,A1,A1,A1
+88,Je te présente Marie. C'est une amie.,,A1,A1,A1
+89,Enchanté !,,A1,A1,A1
+90,Comment allez-vous ?,,A1,A1,A1
+91,"Ca va, merci.",,A1,A1,A1
+92,"Tout va bien, merci.",,A1,A1,A1
+93,C'est un plaisir de faire votre connaissance.,,A1,A1,A1
+94,Je ne comprends pas.,,A1,A1,A1
+95,Je suis américain.,,A1,A1,A1
+96,Vous êtes française.,,A1,A1,A1
+97,Tu es américain et elle est anglaise.,,A1,A1,A1
+98,Où habitez-vous ?,,A1,A1,A1
+99,J’habite à New York.,,A1,A1,A1
+100,On habite aux Etats-Unis.,,A1,A1,A1
+101,Je m’appelle John.,,A1,A1,A1
+102,Comment t’appelles-tu ?,,A1,A1,A1
+103,D’où viens-tu ?,,A1,A1,A1
+104,Je viens du Royaume Uni.,,A1,A1,A1
+105,Est-ce qu'il y a du pain?,,A1,A1,A1
+106,Es-tu prêt?,,A1,A1,A1
+107,Fais attention!,,A1,A1,A1
+108,Bon voyage!,,A1,A1,A1
+109,Appelle un docteur!,,A1,A1,A1
+110,Puis-je utiliser les toilettes?,,A1,A1,A1
+111,Peux-tu m'aider?,,A1,A1,A1
+112,Peux-tu répéter cela?,,A1,A1,A1
+113,Peux-tu parler plus lentement?,,A1,A1,A1
+114,Santé!,,A1,A1,A1
+115,Viens ici!,,A1,A1,A1
+116,Parles-tu anglais?,,A1,A1,A1
+117,Parles-tu espagnol?,,A1,A1,A1
+118,Est-ce que tu comprends?,,A1,A1,A1
+119,Ne t'inquiète pas.,,A1,A1,A1
+120,Bon après-midi!,,A1,A1,A1
+121,Je suis fatigué.,,A1,A1,A1
+122,Je n'en ai aucune idée.,,A1,A1,A1
+123,Ce n'est pas important.,,A1,A1,A1
+124,"Un instant, s'il vous plaît.",,A1,A1,A1
+125,Vraiment?,,A1,A1,A1
+126,Tais-toi!,,A1,A1,A1
+127,Que se passe-t-il?,,A1,A1,A1
+128,Où se trouve le supermarché?,,A1,A1,A1
+129,Aimerais-tu un verre?,,A1,A1,A1
+130,Je ne peux pas le croire.,,A1,A1,A1
+131,Je ne trouve pas mes clés.,,A1,A1,A1
+132,Ça te dérange si je fume?,,A1,A1,A1
+133,J'aime le fromage,,A1,A1,A1
+134,Je n'aime pas le pain.,,A1,A1,A1
+135,J'ai froid,,A1,A1,A1
+136,J'ai faim,,A1,A1,A1
+137,Je suis professeur.,,A1,A1,A1
+138,"Oui, mais ce n’est pas trop long ?",,A1,A2,A2
+139,"Non, juste quelques minutes.",,A1,A2,A2
+140,"Alors, tout d’abord quel âge avez-vous ?",,A2,A2,A2
+141,J’ai 36 ans.,,A1,A2,A2
+142,"Très bien, et est-ce que vous avez un téléphone portable ?",,A2,A2,A2
+143,Depuis combien de temps?,,A1,A2,A2
+144,"Depuis 2 ans, à peu près.",,A1,A2,A2
+145,"Et vous l’utilisez, un peu, beaucoup ou rarement ?",,A2,A2,A2
+146,Oh rarement.,,A1,A2,A2
+147,"Vous savez, je ne l’utilise que pour les cas d’urgence !",,A2,A2,A2
+148,"Et seriez-vous intéressée par l’achat d’un portable nouvelle génération avec appareil photo et accès
+  Internet ?",,A2,A2,A2
+149,"Et bien, pourquoi pas ?",,A1,A2,A2
+150,"Comme ça, je pourrais l’utiliser plus souvent !",,A2,A2,A2
+151,"Bien, l’enquête est terminée, madame.",,A2,A2,A2
+152,Je vous remercie et je vous souhaite une très bonne journée.,,A1,A2,A2
+153,"Merci, à vous aussi, au revoir.",,A2,A2,A2
+154,"Mesdames, messieurs, votre attention s’il vous plaît.",,A1,A2,A2
+155,Le vol AF 438 à destination de Paris va avoir environ 40 minutes de retard.,,A2,A2,A2
+156,"La raison, ce sont les fortes pluies au départ de Madrid.",,A2,A2,A2
+157,"Pour tout renseignement complémentaire, nous vous invitons à passer au bureau d’information de la compagnie.",,A2,A2,A2
+158,Nous vous remercions de votre compréhension et nous vous souhaitons une excellente journée.,,A2,A2,A2
+159,"Je suis Nicolas Dupond, je suis vendeur au magasin « Bureau déco ».",,A2,A2,A2
+160,"Je vous appelle pour vous informer qu’à l’occasion des fêtes de Noël, nous offrons des promotions exceptionnelles à tous nos clients : 20, 30 et même 50 % de réduction sur la plupart de nos meubles !",,A2,A2,A2
+161,"Nous vous invitons à venir nous rendre visite au magasin, du lundi au samedi de 9 h à 20 h, ou à consulter notre site internet pour plus de renseignements.",,A2,A2,A2
+162,Hier s’est terminé le Salon de la pâtisserie de Paris.,,A2,A2,A2
+163,"Avant, les gourmands se retrouvaient au Salon Cuisinez mais depuis qu’il a fermé, c’est au Salon de la pâtisserie que le grand public, mais aussi les professionnels de la pâtisserie, vont goûter de délicieux desserts chocolatés ou fruités.",,B1,A2,A2
+164,Plus de 800 chefs pâtissiers sont présents pour dédicacer leurs livres mais aussi discuter avec le public de leur métier.,,A2,A2,A2
+165,"Chaque année, vous pouvez acheter du matériel professionnel à bas prix et, nouveauté de cette année, vous pouvez suivre une classe avec un chef !",,A2,A2,A2
+166,"Le billet pour un adulte coûte 10 euros à l’entrée du salon mais seulement 8 euros si vous l’achetez avant, sur le site Internet du salon.",,A2,A2,A2
+167,Peux-tu me donner le numéro de ton spécialiste ?,,A2,A2,A2
+168,Je veux prendre rendez-vous pour mon dos.,,A2,A2,A2
+169,"Oui, bien sûr !",,A1,A2,A2
+170,"Attends, je le cherche.",,A1,A2,A2
+171,"Je ne trouve pas les livres que j’ai pris à la bibliothèque…
+  ",,A2,A2,A2
+172,"Tu pourrais ranger ta chambre, ça t’aiderait à les retrouver !",,A2,,
+173,Je ne comprends rien à ce site d’achat en ligne !,,A2,A2,A2
+174,Est-ce que tu veux que je regarde avec toi ?,,A2,A2,A2
+175,"Oui, merci, c’est gentil !",,A1,A2,A2
+176,Je suis vraiment désolé : j’ai oublié d’acheter de la viande en rentrant !,,A2,A2,A2
+177,"Ce n’est pas grave, on va manger autre chose.",,A2,A2,A2
+178,"Chers auditeurs, bonjour, nous nous retrouvons aujourd’hui dans le studio de votre émission culturelle préférée, « Un monde des idées », pour poser à nos invités une question que vous vous posez tous : « l’école
+  doit-elle tout enseigner ?",,B2,A2,A2
+179,"Avec nous ce soir pour tenter de répondre à cette question plusieurs personnalités, tout d’abord M. Jean Cruchon, Inspecteur de l’Education nationale et auteur d’un ouvrage sorti aux éditions
+  « éducation », « le miracle de l’école » ; M. Cruchon bonsoir.",,B2,A2,A2
+180,"Mlle Marie-Paule Lesueur, lycéenne au lycée Henry
+  Wallon de La Courneuve en banlieue parisienne, bonsoir, et Mme Polanque, sociologue, anthropologue et spécialiste du monde éducatif.",,B2,A2,A2
+181,"Alors j’ai envie de vous poser une première question, l’école a-t-elle aujourd’hui la
+  même fonction qu’hier ?",,A2,A2,A2
+182,"Non, bien sûr que non.",,A2,A2,A2
+183,L’école n’a plus la même fonction qu’hier parce que le monde a changé.,,A2,A2,A2
+184,"Lorsque Jules Ferry instaure l’école laïque, gratuite et obligatoire pour tous, nous sommes à la fin du XIXe siècle,
+  dans un pays en pleine expansion économique, un pays colonialiste qui fait sa Révolution industrielle mais qui
+  reste encore très rural.",,C1,A2,A2
+185,"Cette école avait une vocation première, peut-être non avouée, celle de finaliser l’unification du pays.",,B2,A2,A2
+186,"Il s’agissait avant tout de franciser la République, de faire en sorte que tous les petits Français
+  parlent français.",,B2,A2,A2
+187,L’unité linguistique était loin d’être faite.,,B1,A2,A2
+188,"Les Bretons parlaient breton, les Occitans occitan et les Corses corse.",,A2,A2,A2
+189,"Je ne peux pas vous laisser dire cela, Madame.",,A2,A2,A2
+190,"L’école de la République qui a été fondée au XIXe
+  reste aujourd’hui extrêmement actuelle, et on ne peut pas dire qu’elle a simplement servi à franciser les Français.",,B2,A2,A2
+191,"Laissez-moi vous dire d’abord que beaucoup de gens parlaient français ; n’oubliez pas que le français s’est
+  imposé comme langue de l’administration au XVIe siècle, au traité de Villers-Cotteret.",,B2,A2,A2
+192,"Ça change que tout le monde au XIXe siècle était obligé de comprendre le français pour aller à la mairie,
+  au service militaire ou encore pour lire la presse.",,B2,A2,A2
+193,"Bon, mais ce qui compte c’est que l’école de Jules Ferry c’est une école qui a introduit de nouvelles valeurs
+  pour l’époque, des valeurs qui fondent notre société aujourd’hui et qui sont directement héritées de l’esprit des
+  grands philosophes.",,C1,A2,A2
+194,"Respect des droits de l’homme, laïcité, égalité… C’est cela le grand apport de l’école
+  du XIXe.",,B1,A2,A2
+195,Moi je suis pas vraiment d’accord avec ce que dit Monsieur.,,A2,A2,A2
+196,"Pour moi l’école d’aujourd’hui elle ne marche
+  pas parce que justement on tente de la faire reposer sur des histoires, enfin sur des valeurs comme vous dites,
+  qui sont du passé.",,B2,A2,A2
+197,"Non, bien sûr ; mais ce que je veux dire c’est que nos préoccupations ont changé.",,A2,A2,A2
+198,"Nous les jeunes aujourd’hui on veut être plus écoutés ; on veut que l’école nous prépare à trouver du boulot, enfin du travail, quoi.",,A2,A2,A2
+199,"L’histoire, l’éducation civique tout ça c’est bien, mais ça ne nous prépare pas à trouver du travail.",,B1,A2,A2
+200,Je suis tout à fait d’accord avec la jeune fille.,,A2,A2,A2
+201,C’est exactement ce que je dis.,,A2,A2,A2
+202,La mission de l’école a changé.,,A2,A2,A2
+203,"Aujourd’hui il faut ouvrir l’école au monde de l’entreprise, revaloriser les apprentissages, s’ouvrir aux
+  nouvelles technologies et oublier un peu les grandes missions d’hier pour être plus pragmatiques.",,C1,A2,A2
+204,Plus concrets.,,A2,A2,A2
+205,Je ne vois pas ce qu’il y a d’incompatible à enseigner des valeurs et en même temps de nouvelles techniques.,,B2,A2,A2
+206,"Vous prônez une ouverture de l’école sur le monde d’aujourd’hui, je suis tout à fait d’accord avec vous.",,B2,A2,A2
+207,"Vive Internet, vive l’informatique.",,A2,A2,A2
+208,"Mais croyez-vous pour autant que ce monde n’a pas besoin d’apprendre la
+  tolérance ?",,B1,A2,A2
+209,Le droit à la différence ?,,A2,A2,A2
+210,Mais les jeunes ils attendent ça depuis longtemps.,,A2,A2,A2
+211,"Le respect, l’égalité , c’est ce que veulent les jeunes.",,B1,A2,A2
+212,Le problème c’est que quand ils arrivent dans le monde du travail y a pas de respect.,,B1,A2,A2
+213,C’est la jungle.,,A2,A2,A2
+214,"Si tu portes un nom arabe, tu as plus de mal à trouver du travail que si tu t’appelles François ou Sylvie.",,B1,A2,A2
+215, l’école doit nous préparer à affronter ce monde.,,A2,A2,A2
+216,A affronter ce monde et l’améliorer.,,A2,A2,A2
+217,"Vous êtes les citoyens de demain et nous devons
+  vous donner de bonnes bases, non seulement pour vous préparer face au monde moderne mais aussi pour que
+  vous fassiez changer ce monde.",,B1,A2,A2
+218,L’école a-t-elle fait changer le monde ?,,A2,A2,A2
+219,Sans aucun doute.,,A2,A2,A2
+220,Notre société s’est développée parce que ses citoyens se sont éduqués.,,A2,A2,A2
+221,C’est vrai ; pourtant les inégalités persistent.,,A2,A2,A2
+222,"On constate que la plupart des jeunes qui réussissent sont
+  issus de milieux socioculturels favorisés.",,A2,A2,A2
+223,Combien de jeunes réussissent dans votre banlieue mademoiselle ?,,A2,A2,A2
+224,Je ne sais pas ; pas beaucoup peut-être ; pas assez en tout cas.,,B1,A2,A2
+225,"Ce que je sais par contre c’est que
+  beaucoup de jeunes restent sur le carreau.",,A2,A2,A2
+226,"Pas de diplôme, pas de boulot.",,A2,A2,A2
+227,"Et ça c’est à cause de l’école, parce
+  que l’école les a dégoûtés, ils avaient plus envie d’apprendre ; alors maintenant ils sont dans la rue et ils font
+  n’importe quoi.",,B2,A2,A2
+228,Y en a beaucoup comme ça ?,,A2,A2,A2
+229,"Bon, peut-être qu’il y en pas encore beaucoup mais de plus en plus.",,B1,A2,A2
+230,"Vous voyez, le rôle de l’école a changé.",,A2,A2,A2
+231,Nous avons aujourd’hui un taux de scolarisation proche de 100 %.,,A2,A2,A2
+232,"Ce n’était pas le cas il y a cent ans, et c’est très bien.",,A2,A2,A2
+233,"Mais la société a évolué et si
+  l’école ne le fait pas il y aura de plus en plus de jeunes comme ceux que décrit Mlle Lesueur.",,B1,A2,A2
+234," L’école évolue, croyez-moi.",,A2,A2,A2
+235,Elle fait face à de nombreux défis et elle les relève.,,A2,A2,A2
+236,Le niveau des études ne cesse d’augmenter.,,A2,A2,A2
+237,"On fait aujourd’hui en terminale ce qu’on faisait hier à l’université…
+",,A2,A2,A2
+238,"Oui, mais qui fait cela ?",,A2,,
+239,L’ensemble des jeunes ?,,A2,A2,A2
+240,"Les meilleurs, et les meilleurs sortent toujours du même milieu économique.",,B1,A2,A2
+241,Vous exagérez.,,A1,A2,A2
+242,L’ascenseur est en panne.,,A2,A2,A2
+243,"Avant, on pouvait aspirer à devenir haut fonctionnaire même si on était fils de paysan.",,B1,A2,A2
+244,"Aujourd’hui , c’est plus possible.",,A2,A2,A2
+245,Les parents s’occupaient davantage de leurs enfants.,,A2,A2,A2
+246,On ne peut pas demander à l’école de tout changer.,,A2,A2,A2
+247,Les parents de banlieue se sont organisés pour les devoirs des enfants.,,A2,A2,A2
+248,Ils ont créé une association. ,,A2,A2,A2
+249,ils ont embauché des étudiants pour aider leurs enfants.,,A2,A2,A2
+250,Ils ont levé des fonds.,,A2,A2,A2
+251,Les solutions existent.,,A2,A2,A2
+252,Il ne faut pas toujours aller les demander à la société.,,A2,A2,A2
+253,L’école ne peut pas tout faire.,,A2,A2,A2
+254,M. Cruchon vient de donner une réponse à notre question.,,A2,A2,A2
+255,Il pense qu’elle ne peut pas tout faire.,,A2,A2,A2
+256,Moi je pense que l’école ne peut pas tout faire. ,,A2,A2,A2
+257,On doit aider les petits pour y arriver.,,A2,A2,A2
+258,Mais si on n’a pas les moyens de le faire on le fera pas.,,A2,A2,A2
+259,Il faudra bien que quelqu’un aide le petit à le faire.,,A2,A2,A2
+260,C’est l’école qui doit le trouver.,,A2,A2,A2
+261,Elle ne doit pas dégoûter les élèves.,,A2,A2,A2
+262,Elle doit les aider à apprendre.,,A2,A2,A2
+263,Je suis tout à fait d’accord.,,A2,A2,A2
+264,"Si l’école a une mission aujourd’hui, c’est bien celle-là.",,B1,A2,A2
+265,"Enseigner à apprendre, même par ceux qui ne réussissent pas.",,B1,A2,A2
+266,"Cela passe sans doute par une autre forme d’enseignement, non plus basé sur la sanction mais sur la valorisation des apprentissages.",,B2,A2,A2
+267,Je ne crois pas que les enfants vont réussir. ,,A2,A2,A2
+268,"Cette fois, c’est vous qui caricaturez !",,A2,A2,A2
+269,Enseigner à une enfant qu’il peut réussir.,,A2,A2,A2
+270,Il peut aussi échouer,,A2,A2,A2
+271,C’est lui redonner confiance en lui.,,A2,A2,A2
+272,"Pas le casser, quoi.",,A2,A2,A2
+273,Ne pas le casser.,,A2,A1,A1
+274,Le temps s’achève.,,A2,A2,A2
+275,Je vous remercie tous les trois. ,,A2,A2,A2
+276,Nous nous retrouverons la semaine prochaine.,,A2,A2,A2
+277,Une petite révolution et des chiffres qui parlent tout seuls.,,B1,B1,B1
+278,1000 vues pour cette vidéo.,,A2,A2,A2
+279,La visite du château en 20 secondes.,,A2,A2,A2
+280,"Thomas Garnier s’occupe de la communication numérique du château de Versailles, et c’est lui qui imagine ces petites vidéos ludiques de plus en plus visibles sur les réseaux sociaux.",,B2,B2,B2
+281,C’est le château.,,A1,A1,A1
+282,"Lui, brun aux yeux noirs, signe particulier : marche à quatre pattes et tire la langue.",,B1,B1,B1
+283,"Elle, jeune, sportive, en jogging noir, profession : éducatrice de chiens guides d’aveugles.",,B1,B1,B1
+284,"En cette fin de matinée, Djengo, jeune chien d’un an et demi, est au travail.",,B1,B1,B1
+285,"Alexiane Da Silva l’a emmené sur une piste d’entraînement pour les chiens guides, un parcours qui reproduit les difficultés rencontrées dans la ville.",,B1,B1,B1
+286,Un chien comme Djengo est éduqué (ou dressé) pour accompagner une personne aveugle ou qui voit mal et pour l’aider dans ses déplacements quotidiens.,,B1,B1,B1
+287,"Petit, il vivra d’abord dans une famille d’accueil qui lui donnera une première éducation.",,B1,B1,B1
+288,"Avec elle, il apprendra qu’il ne faut pas aboyer sans raison, monter sur les canapés ou entrer dans les chambres.",,B1,B1,B1
+289,"Pendant les promenades, le jeune chien s’habituera aux bruits de la ville, aux transports et aux magasins.",,B1,B1,B1
+290,Il apprendra à ne pas courir après un ballon ou à ne pas avoir peur du klaxon des voitures.,,B1,B1,B1
+291,"À l’âge d’un an, il entrera dans une école pour suivre une formation pendant six à huit mois.",,B1,B1,B1
+292,"À la fin de sa formation, le chien saura parfaitement guider dans environ cinquante situations différentes et il pourra comprendre autant d’ordres.",,B1,B1,B1
+293,"Alexiane Da Silva explique :  le chien commence par apprendre les directions, aller tout droit, à droite, à gauche, faire demi-tour.",,B1,B1,B1
+294,"Il apprend ensuite tout ce qui concerne “ la recherche ”, c’est-à-dire savoir trouver et identifier les passages piétons, les pistes cyclables et les rues, s’arrêter devant les portes ou les escaliers, savoir éviter les difficultés, monter dans les transports, etc.",,B1,B1,B1
+295,Le chien n’est pas le seul à apprendre !,,A2,A2,A2
+296,Son futur maître doit également faire un stage de formation.,,B1,B1,B1
+297,Le maître et le chien doivent bien se connaître mais aussi et surtout bien se comprendre.,,B1,B1,B1
+298,"Par exemple, lorsque le chien signale quelque chose, le maître doit comprendre le sens.",,B1,B1,B1
+299,De plus ce dernier doit apprendre à bien tenir son chien pour permettre à l’animal de bien le conduire.,,B1,B1,B1
+300,"C’est ce qu’a appris Hervé Brassier qui pourrait parler pendant des heures de son chien guide, Indigo : Ce chien m’apporte beaucoup de bonheur.",,B1,B1,B1
+301,Je suis complétement en sécurité car j’ai une entière confiance en lui.,,B1,B1,B1
+302,"Enfin, il faut savoir que l’éducation complète d’un chien guide coûte très cher et qu’en France, les dix écoles sont entièrement financées par des dons.",,B1,B1,B1
+303,"C’est donc grâce à la générosité du grand public que, chaque année, près de 200 chiens trouvent un maître à guider.",,B1,B1,B1
+304,C’était super !,,A1,A1,A1
+305,Je suis restée quatre semaines à Boston dans une famille.,,A2,A2,A2
+306,Il y avait deux enfants de 14 et 11 ans.,,A2,A2,A2
+307,Je suis devenue très copine avec la fille de 14 ans.,,A2,A2,A2
+308,"Elle s’appelle Joy, on parlait de tout, on s’entendait super bien !",,B1,B1,B1
+309,"Oh tu sais, au début ce n’était pas facile.",,A2,A2,A2
+310,Les deux premiers jours je ne comprenais rien du tout !,,A2,A2,A2
+311,"Mais la famille était tellement sympa, on rigolait beaucoup.",,A2,A2,A2
+312,Et puis après quelques jours tout était plus facile.,,B1,B1,B1
+313,"En plus, comme il faisait très beau on mangeait toujours dans le jardin avec des amis ou des voisins, j’ai beaucoup parlé, tu sais !",,B1,B1,B1
+314,Et aussi grâce à la télévision parce qu’on regardait tous les soirs deux ou trois épisodes de mes séries préférées.,,B1,B1,B1
+315,"C’est génial, j’ai tout vu avant vous !",,A2,A2,A2
+316,Voyager c’est bien mais voyager responsable c’est encore mieux !,,B1,B1,B1
+317,"Mais au fait, qu’est-ce que c’est le tourisme responsable ?",,B1,B1,B1
+318,"Eh bien, le tourisme responsable ou solidaire, c’est tout simplement voyager tout en cherchant à préserver l’équilibre environnemental, culturel et économique du lieu qu’on a choisi de visiter.",,B1,B1,B1
+319,"C’est une activité en plein développement car aujourd’hui on ne veut plus seulement profiter du pays ou du village qui nous accueille, mais on souhaite de plus en plus participer réellement à la vie de celui-ci.",,B1,B1,B1
+320,C’est une manière de découvrir un endroit en évitant les lieux touristiques et en respectant le milieu naturel.,,B1,B1,B1
+321,Alors comment ça marche ?,,A1,A1,A1
+322,C’est très simple !,,A1,A1,A1
+323,"On choisit la date, le lieu et le projet qui nous intéressent, on paye et on part !",,B1,B1,B1
+324,De nombreuses agences se sont spécialisées dans ce domaine et il suffit aujourd’hui de réserver son séjour comme des vacances ordinaires.,,B1,B1,B1
+325,"Vous pourrez, par exemple, visiter le Costa Rica en participant au projet « Sauvons les tortues », ou partir construire une école à Madagascar ou même rester près de chez vous et rénover la mairie d’un petit village.",,B1,B1,B1
+326,L’objectif de ce type de voyage est d’être actif et non pas un touriste passif qui visite sans vraiment découvrir la vie et les habitudes locales.,,B1,B1,B1
+327,"Trop souvent le tourisme est une cause de dégradation de l’environnement ou de désorganisation d’une société traditionnelle alors que le voyageur doit être à l’écoute, tolérant et s’adapter à la vie locale.",,B1,B1,B1
+328,"Bien sûr, il ne s’agit pas de travailler mais bien de participer et les séjours sont aussi organisés de manière à se faire plaisir.",,B1,B1,B1
+329,"Par exemple, le matin on plante des arbres pour repeupler une forêt et l’après-midi chacun reste libre de visiter ce qu’il souhaite ou de se reposer sur une plage.",,B1,B1,B1
+330,"Ce tourisme appelé responsable, durable ou éco tourisme permet donc de valoriser et de protéger les ressources naturelles tout en contribuant à la vie économique et culturelle.",,B1,B1,B1
+331,"Le télévendeur renseigne la clientèle par téléphone, enregistre des commandes et effectue le
+ suivi des clients.",,B1,B1,B1
+332,"Cependant, l’essentiel de son temps consiste à trouver de nouveaux clients
+ et à proposer des visites de représentants commerciaux.",,B1,B1,B1
+333,Il peut également effectuer des enquêtes de marché.,,A2,A2,A2
+334,"Dans le domaine de la publicité, il peut vendre des espaces publicitaires.",,B1,B1,B1
+335,"Le télévendeur travaille à temps plein, à temps partiel ou en complément d’une autre activité.",,B1,B1,B1
+336,"Les lieux de travail sont des entreprises, des sociétés de service, des centres d’appel, des
+ agences de publicité, des régies publicitaires.",,B1,B1,B1
+337,Parfois l’activité peut se faire à domicile.,,B1,B1,B1
+338,Le développement d’Internet a engendré de nouveaux « profils » comme celui de vendeur itinérant.,,B1,B1,B1
+339,"Équipé d’une caméra, d’un téléphone portable et d’un ordinateur, il aide le client à
+ faire ses courses directement dans le magasin.",,B1,B1,B1
+340,"Les conditions de travail sont difficiles, parfois très difficiles.",,B1,B1,B1
+341,"C’est un travail qui s’exerce
+ en position assise, en bureau individuel ou sur un plateau téléphonique intégré où le bruit
+ assourdissant est permanent.",,B1,B1,B1
+342,Les horaires de travail sont parfois décalés en fonction de la nature et de la disponibilité des publics contactés (le soir par exemple).,,B1,B1,B1
+343,"Les périodes de pause
+ sont de courte durée, le stress et la tension souvent présents.",,B1,B1,B1
+344,"Dans cette profession, le renouvellement de personnel est important.",,B1,B1,B1
+345,Toutes les enseignes de la grande distribution ont choisi Internet comme canal de distribution ou de commande.,,B1,B1,B1
+346,"Avec de l’expérience, le télévendeur peut devenir animateur d´un pôle de
+ télévendeurs, superviseur d’équipe, chef de plateau.",,B1,B1,B1
+347,"Ce métier ne convient que pour un début
+ de carrière, dans la vente, par exemple.",,B1,B1,B1
+348,"J’aimerais vous présenter un nouveau collègue, Jacques Servat qui arrive de Madrid où il vient
+ de passer cinq ans dans un grand groupe d’ameublement au poste de chef d’équipe des commerciaux.",,B1,B1,B1
+349,"À partir de
+ maintenant, il travaillera avec nous dans l’équipe commerciale en tant que responsable des ventes.",,B1,B1,B1
+350,"Avant de laisser la
+ parole à Monsieur Servat, qui saura mieux que moi parler de lui-même, j’aimerais lui souhaiter la bienvenue dans notre
+ entreprise ainsi que beaucoup de succès dans son travail.",,B1,B1,B1
+351,"Du courage également, car l’année s’annonce difficile.",,B1,B1,B1
+352,Bonjour à tous !,,A1,A1,A1
+353,Je crois que vous savez que Christian est malade et que nous ne connaissons pas pour l’instant la durée de son absence.,,B1,B1,B1
+354,"En attendant, pour le remplacer, je vous présente notre nouveau cuisinier.",,B1,B1,B1
+355,"Il a une
+ longue expérience dans un grand nombre de restaurants, mais moins en restauration collective.",,B1,B1,B1
+356," Je vous
+ demanderai de tout lui montrer et de le seconder cette semaine.",,B1,B1,B1
+357,Je compte sur vous ainsi que sur vous tous !,,B1,B1,B1
+358,Voici votre nouvelle stagiaire jusqu’au mois de mai.,,B1,B1,B1
+359,"Ou peut-être jusqu’à la fin juin, en fonction de
+ son contrat.",,B1,B1,B1
+360,Nous en reparlerons.,,A2,A2,A2
+361,"Il faudrait d’abord lui faire visiter un peu les chambres, la salle de restaurant, et
+ le reste.",,B1,B1,B1
+362,"Elle travaillera principalement à l’accueil au début, puis en salle pour assurer le service des clients avec les
+ équipes du midi et du soir.",,B1,B1,B1
+363,Merci à tous de bien l’accueillir!,,B1,B1,B1
+364,"À la radio, le journaliste  a conservé les intonations de son Pays basque natal dans le
+ Sud de la France.",,B1,B1,B1
+365,"Une exception, dans un paysage audiovisuel où il y a beaucoup de règles.",,B1,B1,B1
+366,Peut-on évoquer des sujets sérieux avec un accent du Sud de la France ?,,B1,B1,B1
+367,Faire de la philosophie avec des intonations alsaciennes ?,,B1,B1,B1
+368,Développer une pensée profonde en parlant comme les gens du Nord ?,,B1,B1,B1
+369,"Longtemps, la France a répondu non.",,B1,B1,B1
+370,Le seul « beau parler » était celui des élites parisiennes et ceux qui rêvaient de s’élever socialement devaient l’adopter.,,B1,B1,B1
+371,"Avant lui, les journalistes qui avaient gardé l’accent du Midi présentaient le rugby, la météo ou les spécialités régionales, au nom d’une loi très stricte : « On n’accepte
+ pas à la Comédie-Française que les comédiens parlent avec un accent régional », disait, voilà dix ans,
+ le président de France Télévision.",,B1,B1,B1
+372,« Il est difficile d’imaginer un accent trop fort pour présenter un journal national.,,B1,B1,B1
+373,Monsieur a été le premier à animer une émission dite « sérieuse » à la radio puis à la télévision.,,B1,B1,B1
+374,L’entrée du journaliste basque dans le monde audiovisuel n’avait donc rien d’évident.,,B1,B1,B1
+375,"« J’ai longtemps travaillé en presse écrite », indique-t-il.",,B1,B1,B1
+376,"« C’est en représentant mon journal,
+ à l’émission , à la radio, que j’ai rencontré le Monsieur, qui dirigeait alors la station.",,B1,B1,B1
+377,"En 1999, il m’a proposé de devenir chef du service politique.",,B1,B1,B1
+378,"
+ Curieusement, l’actuel président du groupe Radio-France ne se souvient pas du débat après l’arrivée de Monsieur
+ : « Son arrivée n’a pas été critiquée, car il était évident que Monsieur avait beaucoup de présence à la radio.",,B1,B1,B1
+379,Son accent est si naturel que cela n’a posé aucun problème.,,B1,B1,B1
+380,"
+ Son passage à Radio Luxembourg, en 2003, a été bien moins facile.",,B1,B1,B1
+381," Alors le directeur de
+ l’information, raconte : « Dans l’équipe de direction, j’étais le seul à défendre sa candidature.",,B1,B1,B1
+382,Personne ne discutait ses grandes qualités professionnelles.,,B1,B1,B1
+383,"Mais d’autres n’étaient pas d’accord : « Son accent
+ est tellement fort que l’auditeur va oublier ce qu’il dit », « La politique est un sujet trop sérieux pour être
+ confié à une intonation aussi chantante* »
+ 
+ 
+ À la fin, Philippe Labro, alors vice-président de la station de radio, a expliqué : « Il y a deux possibilités :
+ soit son accent lui permettra d’être connu et ce sera très bien.",,B1,B1,B1
+384,Soit on le trouvera ridicule et ce sera une catastrophe.,,B1,B1,B1
+385,"Selon moi, le risque est trop grand pour qu’on le prenne.",,B1,B1,B1
+386,« J’ai vraiment dû beaucoup insister pour être choisi ! rapporte Monsieur.,,B1,B1,B1
+387,Puis il précise : « Je n’ai jamais cherché à corriger ou à accentuer mon accent.,,B1,B1,B1
+388,Je mets tous mes efforts et toute mon énergie exclusivement dans le travail.,,B1,B1,B1
+389,"
+ Depuis la salle panoramique de ce restaurant,
+ la vue sur la ville  est magnifique.",,B1,B1,B1
+390,"C’est
+ le cadre idéal pour un dîner romantique, mais
+ c’est aussi un endroit tranquille pour les repas
+ d’affaires.",,B1,B1,B1
+391,La cuisine est classique et à base de produits régionaux.,,B1,B1,B1
+392,"Le menu « tout légumes » est
+ très apprécié des personnes qui ne mangent ni
+ viande, ni poisson.",,B1,B1,B1
+393,"Le menu « tradition » permet de goûter d’excellents
+ produits, comme la truite saumonée, le gâteau de
+ légumes ou le dessert au chocolat.",,B1,B1,B1
+394,"Les serveurs
+ sont mal organisés, c’est dommage.",,B1,B1,B1
+395,"Dans cet établissement bien connu du centre de
+ Lyon, on nous propose une cuisine gourmande
+ pour un excellent rapport qualité-prix.",,B1,B1,B1
+396,C’est une très bonne adresse pour les amateurs de viande et de charcuterie.,,B1,B1,B1
+397,"Si vous ne mangez que des
+ légumes, ce restaurant n’est pas pour vous !",,B1,B1,B1
+398,Le chef cuisine des spécialités de la région avec des produits de saison.,,B1,B1,B1
+399,On passe un agréable moment dans ce restaurant même si l’ambiance animée est un peu trop bruyante.,,B1,B1,B1
+400,Un lieu plutôt réservé aux repas en famille ou entre amis.,,B1,B1,B1
+401,Les serveurs sont sympas et très attentionnés.,,B1,B1,B1
+402,"La cuisine proposée par Luis, un jeune cuisinier
+ brésilien, est authentique et 100 % faite maison.",,B1,B1,B1
+403,Deux types de plats sont proposés : des plats typiques d'ici et des plats de son pays d’origine.,,B1,B1,B1
+404,Au menu : saucisson lyonnais mais aussi gratin de patates douces ou plats de légumes colorés.,,B1,B1,B1
+405,C’est délicieux de l’entrée jusqu’au dessert.,,B1,B1,B1
+406,"En salle,
+ les serveurs sont souriants mais peu efficaces.",,B1,B1,B1
+407,"Si
+ le soleil de Rio arrive jusqu’à Lyon, vous pourrez
+ déguster votre repas en terrasse en écoutant de
+ la samba.",,B1,B1,B1
+408,Un lieu un peu trop bruyant surtout en fin de semaine.,,B1,B1,B1
+409,Les deux jeunes cuisiniers du Piano travaillent exclusivement avec des produits frais.,,B1,B1,B1
+410,Vous pourrez découvrir leur cuisine gourmande et naturelle à travers les meilleures recettes lyonnaises.,,B1,B1,B1
+411,Le menu est imaginé chaque jour en fonction de ce que les chefs trouvent au marché de Lyon.,,B1,B1,B1
+412,"Ils vous feront
+ goûter, par exemple, du boudin noir aux pommes
+ ou la célèbre saucisse de Lyon.",,B1,B1,B1
+413,Il n’y a cependant pas de plats de légumes à la carte.,,B1,B1,B1
+414,"Le service est très professionnel, les serveurs savent
+ conseiller les clients.",,B1,B1,B1
+415,Le restaurant possède un petit salon calme pour les réunions et les dîners privés.,,B1,B1,B1
+416,"En France, un enfant sur cinq naît dans un foyer bilingue.",,B1,B1,B1
+417,Il n’y a pas beaucoup de différences dans le développement du langage entre un enfant bilingue et un enfant monolingue.,,B1,B1,B1
+418," À 24 mois, les enfants connaissent une cinquantaine de mots, souligne Madame la
+ linguiste.",,B1,B1,B1
+419,"Pour les enfants bilingues, ces mots sont partagés entre les deux langues.",,B1,B1,B1
+420,"» Cette situation
+ pourrait laisser croire qu’il y a un retard dans l’apprentissage d’une des deux langues, mais
+ « quand on étudie le vocabulaire des enfants bilingues et monolingues à trois ans, on trouve le même
+ nombre de mots, en moyenne.",,B1,B1,B1
+421,Chaque famille a sa propre expérience du bilinguisme.,,B1,B1,B1
+422,"Ainsi, Madame, qui est irlandaise et
+ vit à lieu, témoigne : « En France, si je parle anglais à mon fils, il me répond plutôt en
+ français.",,B1,B1,B1
+423,"Ce n’est qu’en Irlande, là où vit ma famille, et au bout de quelques semaines, qu’il fait des
+ phrases en anglais.",,B1,B1,B1
+424,"Lorsqu’il m’arrive de me fâcher contre mon fils, j’utilise spontanément ma langue
+ maternelle.",,B1,B1,B1
+425,Je regrette tout de suite après car j’ai peur qu’il associe la langue anglaise à quelque chose de désagréable.,,B1,B1,B1
+426,Il est danois.,,A1,A1,A1
+427,"Pour lui, parler sa langue maternelle avec ses filles, c’est surtout transmettre
+ quelque chose de sa culture.",,B1,B1,B1
+428,« Je leur apprends des chansons en danois et elles regardent aussi des dessins animés en danois.,,B1,B1,B1
+429,"Mais dans leur vie quotidienne, comme à l’école ou avec leurs
+ copains, c’est clair, c’est le français qui l’emporte.",,B1,B1,B1
+430,Ce n’est vraiment pas simple de transmettre sa langue lorsqu’on n’est pas dans son pays d’origine !,,B1,B1,B1
+431,"
+ Elle évoque un autre point : « Encore aujourd’hui, certains pensent qu’un
+ enfant élevé dans deux langues différentes réussit moins bien à l’école.",,B1,B1,B1
+432,Ce qui est faux.,,A1,A1,A1
+433,"De plus,
+ les langues n’ont pas la même image dans la société.",,B1,B1,B1
+434,"« Malheureusement, on voit souvent la
+ capacité à parler anglais comme une force, mais pas forcément d’autres langues, regrette Madame.",,B1,B1,B1
+435,Je reçois par exemple des couples franco-espagnols qui n’ont qu’une envie : que leur enfant apprenne l’anglais.,,B1,B1,B1
+436,C’est un fait inquiétant qu’on constate dans toutes les capitales européennes : les touristes séjournent de plus en plus dans des appartements loués sur des sites internet.,,B1,B1,B1
+437,"Laurent Lopez,
+ directeur d’hôtel, est directement concerné : « notre chiffre d’affaire baisse de 10 % chaque année
+ depuis 3 ans.",,B1,B1,B1
+438,"» En parallèle, ce nouveau mode d’hébergement a provoqué une augmentation
+ du prix du mètre carré.",,B1,B1,B1
+439,"Ainsi, à Barcelone, le quartier historique se vide peu à peu de ses
+ habitants qui, pour des raisons économiques, préfèrent déménager en banlieue.",,B1,B1,B1
+440,"Aujourd’hui,
+ le quartier ne compte plus que 15 624 résidents à l’année alors qu’ils étaient 27 470 en 2006.",,B1,B1,B1
+441,"Par ailleurs, Elle, qui habite à Paris, nous explique que son quotidien est devenu très
+ difficile en raison des locations saisonnières : « Les arrivées et départs à n’importe quelle heure
+ de la journée, les fêtes toute la nuit, les groupes de touristes qui envahissent le hall de l’immeuble avec
+ leurs valises… On ne se sent plus chez soi.",,B1,B1,B1
+442,"Nous ne voulions pas d’ascenseur, mais un voisin qui loue
+ son appartement en voulait absolument un pour attirer les touristes.",,B1,B1,B1
+443,"Ça nous a donc coûté de l’argent,
+ s’énerve-t-elle.",,B1,B1,B1
+444,J’ai été me plaindre à la mairie mais ça n’a servi à rien !,,B1,B1,B1
+445,Le marché de la location saisonnière peut rapporter beaucoup d’argent : en moyenne 350 €,,B1,B1,B1
+446,supplémentaires par mois pour les propriétaires de logements loués sur les sites internet de locations saisonnières à lieu.,,B1,B1,B1
+447,"Dans cette ville, tout comme à Paris et Londres, les
+ autorités ont déjà décidé de mettre en place des règles pour limiter la durée de location.",,B1,B1,B1
+448,Les sites internet de locations saisonnières protestent et affirment que les problèmes de logement existaient déjà avant leur arrivée.,,B1,B1,B1
+449,"Pour les habitants des quartiers historiques, la vie n’est plus la même : les rues pleines de
+ touristes perdent peu à peu leurs magasins de quartier.",,B1,B1,B1
+450,"Fini les boutiques d’autrefois, adieu
+ les voisins qu’on connaît bien.",,B1,B1,B1
+451,"Par ici, les mariés.",,A1,A1,A1
+452,C’est pour la photo !,,A1,A1,A1
+453,Marc Chagall termine ce qu’il pense être son dernier tableau : Les mariés de la Tour Eiffel.,,B2,B2,B2
+454,"Alors que la Seconde Guerre mondiale est sur le point d’éclater, le peintre y raconte l’histoire de sa vie : ses racines juives, son parcours, sa peur d’une nouvelle guerre, mais surtout, son amour, toujours grandissant, pour Bella Rosenfeld, son épouse, sa muse.",,B2,B2,B2
+455,"C’est elle, là, au pied de la Tour Eiffel, enlacée par Chagall lui-même.",,B2,B2,B2
+456,Ils chevauchent un coq à taille humaine.,,B2,B2,B2
+457,"Le gallinacé symbolise à la fois, la cérémonie des Kapparot célébrée traditionnellement à l’approche de Yom Kippour et la France, terre d’accueil depuis le début des années 20 pour ce couple juif d’origine russe.",,B2,B2,B2
+458,"Un pays en paix, mais jusqu’à quand ?",,B1,B2,B2
+459,"À la manière des surréalistes, dans un transport poétique mélange de rêve et de réalité, Chagall évoque à coup de détails absurdes, d’explosion de couleurs et dans une symétrie d’idées, la vie et le temps qui passent.",,B2,B2,B2
+460,"Il peint non pas ce qu’il voit, mais ce qu’il ressent.",,B2,B2,B2
+461,"Et que d’informations dans cette toile qui se lit de la gauche vers la droite, du passé au futur !",,B2,B2,B2
+462,"Sous un soleil incandescent, un jeune couple yiddish se marie sous une houppa.",,C1,B2,B2
+463,"Nous sommes en 1915, à Vitebsk, la ville natale de Marc Chagall.",,B2,B2,B2
+464,"Il vient de demander la main de Bella et l’avenir semble briller, mais… Quand l’artiste donne le dernier coup de pinceau à sa toile, les nazis ont déjà commencé à expulser les juifs, contraints de quitter leurs maisons, emportant ce qu’ils peuvent.",,B2,B2,B2
+465,"Dans le chaos qui s’ensuit, un candélabre à trois branches, symbole de la lumière spirituelle, est renversé.",,B2,B2,B2
+466,"Et vous l’entendez, ce violon qui joue du klezmer, la musique traditionnelle des juifs itinérants ?",,B2,B2,B2
+467,"Tout ça raconte la folie des hommes, la montée de l'antisémitisme et la guerre qui gronde.",,B2,B2,B2
+468,"Chagall, en sentinelle, tire le signal d'alarme.",,B2,B2,B2
+469,"À droite, l’artiste peint un arbre touffu, tout à la fois prometteur et inquiétant.",,B2,B2,B2
+470,Quel avenir pour lui et Bella ?,,B1,B2,B2
+471,"« Si toute vie va inévitablement vers sa fin nous devons durant la nôtre, la colorier avec nos couleurs d'amour et d'espoir », disait Chagall.",,B2,B2,B2
+472,"Il nous offre donc à jamais ses violets profonds, ses rouges sang, ses jaunes éclatants et ses bleus à l’âme, mais ça, c’est une autre histoire.",,B2,B2,B2
+473,Vers une annulation des dettes africaines ?,,B2,B2,B2
+474,"Mais pourquoi les économies africaines seraient plus capables de faire face à la dette dans six mois, alors qu’elles ne… elles ont déjà perdu, vous le disiez, plusieurs points de croissance, voire elles sont en récession ?",,B2,B2,B2
+475,"Alain Le Roy, envoyé spécial du Président français pour l’initiative Afrique en réponse au Covid
+  Eh non, justement, c’est… c’est… On analyse les endroits dans lesquels la dette va être… les pays dans lesquels la dette n’est pas soutenable.",,B2,B2,B2
+476,"Et pour ces pays-là, il est très probable, je ne peux pas le garantir à l’avance, mais c’est… c’est évidemment le sens…
+  
+  C'est une annulation.",,B2,B2,B2
+477,"Alain Le Roy, envoyé spécial du Président français pour l’initiative Afrique en réponse au Covid
+  Une annulation, une annulation, une très forte restructuration, ou bien, dans certains cas, une annulation des dettes.",,B2,B2,B2
+478,"Le Président Macron avait été très clair, il avait parlé d’annulation de dette.",,B2,B2,B2
+479,Le Président Macky… Sénégal l’avait bien dit aussi.,,B2,B2,B2
+480,"Alors après, on va bien distinguer dans les dettes : les dettes publiques, privées, multilatérales…Voilà, parce que de quelles dettes parle-t-on ?",,B2,B2,B2
+481,C’est ça la vraie question.,,A2,A1,A1
+482,"Yukihiro Kimura, inventeur du recyclage des couches-culottes en combustible, Yonago, Japon.",,B2,B2,B2
+483,"700 000 tonnes de couches usagées sont jetées chaque année au Japon, ce qui représente jusqu’à 25 % des déchets incinérés dans certaines communes.",,B2,B2,B2
+484,"Il y a neuf ans, cet ancien coureur automobile responsable d’une écurie pense qu’il est de son devoir de s’atteler à ce problème écologique dont personne ne s’était occupé jusqu’alors.",,B2,B2,B2
+485,J’ai mis tout ce que j’avais dans ce projet.,,A2,A2,A2
+486,"Mon énergie, mon temps, mon argent.",,A2,A2,A2
+487,En un mot : toute ma vie.,,A2,A2,A2
+488,"Alors autour de moi, on m’a dit :  T’es sûr que ça vaut le coup ?",,B2,B2,B2
+489,Pourquoi tu prends ce risque ?,,A2,A2,A2
+490,"Au final, le fait que tout le monde était contre moi a renforcé ma détermination.",,B2,B2,B2
+491,"Yukihiro a déjà investi 2,3 millions d’euros dans son procédé unique au monde, qui vient d’être installé, à la demande du maire, dans la commune d’Uki, au sud du pays.",,B2,B2,B2
+492,"Quand j’ai commencé, je n’avais aucune idée des difficultés que j’allais rencontrer.",,B2,B2,B2
+493,Et je ne savais même pas que j’allais faire du combustible à partir de ce déchet.,,B2,B2,B2
+494,"Si je l’avais su dès le départ, la montagne aurait été nettement plus facile à gravir.",,B2,B2,B2
+495,"On a un objectif final, un sommet à atteindre, et ça, ça change tout.",,B2,B2,B2
+496,"Aujourd’hui, la méthode est bien rodée.",,B1,B1,B1
+497,"Quand les couches-culottes usagées des maisons de retraite arrivent ici, elles sont jetées dans cette machine.",,B2,B2,B2
+498,"Une fois déchiquetées et séchées, elles sont alors agglomérées en petits cylindres appelés « palettes ».",,B2,B2,B2
+499,"Ce combustible, majoritairement composé de cellulose et de plastique, permet de chauffer plusieurs installations, dont le spa de la ville.",,B2,B2,B2
+500,"Si le concept que j’ai initié se développe, et si demain un concurrent réussit mieux que moi, je serai content, parce qu’à mes yeux, l’important, c’est d’avoir été le premier à commencer ce business.",,B2,B2,B2
+501,"Et croyez-moi, ça va devenir un gros business dans les années à venir.",,B2,B2,B2
+502,"Alors, prêts à suivre les pas de cet activiste passionné ?",,B2,B2,B2
+503,Sachant que nous jetons 20 milliards de couches-culottes tous les ans dans le monde.,,B2,B2,B2
+504,"Tu sais qu’est-ce qu’on va semer en premier, là ?",,B2,B2,B2
+505,"Ouais, on commence par la menthe ?",,B2,B2,B2
+506,Bruno Boulianne et la petite Lila plantent des graines de fines herbes.,,B2,B2,B2
+507,"La famille cultive un potager dans sa cour depuis plusieurs années, mais c’est la première fois qu’elle expérimente les semis intérieurs.",,B2,B2,B2
+508,"Confinement oblige, j’avais du temps pour travailler à la maison, pour faire des semis à la maison, et avec les enfants.",,B2,B2,B2
+509,"Je me suis concentré sur les pousses rapides : laitue, kale, chou kale, chou frisé.",,B2,B2,B2
+510,"En ce printemps de confinement, les Québécois ont été nombreux à se ruer sur les semis, par crainte que les serres ne restent fermées.",,B2,B2,B2
+511,"Les entreprises qui en vendent ont été littéralement dévalisées, avec notamment explosion des commandes par téléphone, et en ligne.",,B2,B2,B2
+512,"Ça a décuplé, c’est l’explosion !",,B2,B2,B2
+513,On s’est fait vider au niveau des semences.,,B2,B2,B2
+514,"Les grainetiers, les grands grainetiers québécois n’ont plus de stock, et donc l’approvisionnement est rendu difficile.",,B2,B2,B2
+515,"On a reçu autant de commandes en un mois que toute l’année complète, l’année passée.",,B2,B2,B2
+516,"L’engouement pour les potagers s’inscrit dans le mouvement du développement de l’autonomie alimentaire, un mouvement accentué par cette crise du coronavirus.",,B2,B2,B2
+517,"C’est le retour aux sources : les gens veulent faire leur potager, veulent partir de leurs propres légumes et veulent choisir lesquels, et là, le phénomène va vraiment être là pour durer et se prolonger pour les prochaines années.",,B2,B2,B2
+518,"Il y a une ruée vers : « devenons un peu plus indépendants, moins dépendants des magasins, de l’importation, des grandes surfaces », donc une espèce de retour au savoir-faire artisan, un peu de nos ancêtres, de nos parents, de nos grands-parents.",,B2,B2,B2
+519,"La petite famille va mettre en terre les plants, dès que la météo le permettra.",,B2,B2,B2
+520,"Et pour ceux qui n’ont pas cultivé de semis, il sera possible d’aller acheter tomates et autres légumes.",,B2,B2,B2
+521,"Les serres ont pris toutes les mesures nécessaires pour que le magasinage se fasse dans le respect des consignes, avec lavage des mains et les deux mètres de distanciation.",,B2,B2,B2
+522,"Après l’ouverture en juin 2007 de l’enregistrement des entreprises via Internet, le greffe du
+  tribunal de commerce de Paris lance les formalités de modification en ligne (statut, adresse,
+  coordonnées, effectif, capital…) des entreprises.",,B2,B2,B2
+523,"Aujourd’hui le « greffe électronique » est à la
+  disposition des entrepreneurs.",,B2,B2,B2
+524,"Toute formalité de modification nécessite la réalisation de démarches avant la réalisation du
+  dossier ainsi que la préparation des pièces justificatives et des documents à joindre au dossier.",,B2,B2,B2
+525,"Pour éviter un oubli, vous pouvez consulter le « Guide des formalités » en ligne.",,B2,B2,B2
+526,"Vous pouvez également poser une question en ligne aux juristes du greffe qui vous répondent
+  très rapidement.",,B2,B2,B2
+527,"Une fois que vous vous êtes muni des pièces et documents demandés, vous les scannez et
+  les enregistrez sous format numérique.",,B2,B2,B2
+528,"Attention, vous devez certifier conformes la « version
+  papier » des statuts de votre entreprise et celle de votre pièce d’identité, puis vous devez les
+  signer de façon manuscrite avant de les scanner.",,C1,C1,C1
+529,"Quand vous disposez de tous vos fichiers numérisés, vous pouvez effectuer la formalité en ligne
+  en remplissant le formulaire interactif que vous validerez en fin de saisie.",,B2,B2,B2
+530,"Vous joindrez à votre
+  formulaire les pièces justificatives et documents sous format numérique.",,B2,B2,B2
+531,"Vous procéderez au
+  paiement sécurisé en ligne de l’opération.",,B2,B2,B2
+532,"Enfin, vous signerez avec votre certificat électronique
+  l’ensemble de ces éléments avant de cliquer sur « envoi ».",,B2,B2,B2
+533,Aussitôt que le registre du commerce aura reçu le dossier de modification.,,B2,B2,B2
+534,Le délai est d’un maximum de 24 h comme l’impose le texte de loi de 1984.,,B2,B2,B2
+535,"Toujours moins de papier, un accès toujours plus simple et rapide, tel est l’objectif global
+  poursuivi au quotidien par les greffiers du tribunal de commerce de Paris, qui en plein accord
+  avec la volonté ministérielle de faciliter la vie de l’entrepreneur, franchissent à nouveau une
+  étape.",,C1,C1,C1
+536,"L’accès par voie électronique de l’ensemble des formalités au
+  registre du commerce et des sociétés.",,B2,B2,B2
+537,"Nous sommes confrontés à la fin de notre modèle de grand groupe pharmaceutique
+  et, comme nos concurrents, nous devons faire appel à la sous-traitance, tout en voulant
+  garder le contrôle de toute la chaîne de notre activité.",,B2,B2,B2
+538,"Aujourd’hui, plus aucun grand
+  laboratoire de médicaments ne peut rester isolé.",,B2,B2,B2
+539,"L’environnement pharmaceutique
+  international se durcit.",,B2,B2,B2
+540,"Nous assistons à la montée des médicaments génériques et il
+  devient difficile de renouveler les produits.",,B2,B2,B2
+541,"De plus, les agences nationales réglementaires
+  de notre pays exigent de nous davantage de qualité, de sécurité et de fiabilité.",,B2,B2,B2
+542,"Pour faire face à toutes ces transformations, nous vous proposons de nous recentrer sur
+  nos compétences clés : la recherche de nouveaux médicaments et la commercialisation
+  de tous nos produits pharmaceutiques.",,C1,C1,C1
+543,"Pour notre entreprise, externaliser, c’est se
+  concentrer sur nos activités principales, recherche et commercialisation, que nous
+  maîtrisons parfaitement et faire réaliser par des intervenants extérieurs les activités de
+  production et les essais cliniques.",,C1,C1,C1
+544,"Tout d’abord, en externalisant la chaîne de production, nous diminuerons les coûts
+  d’investissement pour la production et les frais de stockage des produits.",,B2,B2,B2
+545,"En outre, nous
+  espérons réduire les délais de commande en exigeant des sous-traitants une très grande
+  réactivité.",,B2,B2,B2
+546,"D’autre part, nous projetons d’externaliser en partie les essais cliniques pour
+  deux raisons.",,B2,B2,B2
+547,"Premièrement, les agences réglementaires nationales exigent un nombre
+  de patients testés toujours plus grand.",,B2,B2,B2
+548,"Ensuite, nous pouvons difficilement prévoir la
+  quantité d’essais à gérer en parallèle.",,B2,B2,B2
+549,"C’est pourquoi, si près de 50 % de nos essais sont
+  sous-traités, nous gagnerons en souplesse et éviterons la baisse momentanée de nos
+  effectifs.",,B2,B2,B2
+550,"Nous savons tous que, quand la fabrication d’un médicament s’arrête pour des
+  raisons sanitaires, nous devons licencier à chaque fois une partie de nos équipes.",,B2,B2,B2
+551,"Dernier point : il reste à décider si nous externalisons la totalité de nos 19 centres de recherche
+  clinique dans le monde ou seulement certains d’entre eux pour continuer à maîtriser la
+  qualité et la sécurité de toute la chaîne de notre activité.",,C1,C1,C1
+552,"Bien entendu, nous sommes conscients des inconvénients que cela peut entraîner :
+  en s’adressant à des sous-traitants, nous courons le risque de perdre une partie de nos
+  secrets de fabrication et de voir surgir des problèmes dans la qualité du service rendu, tels
+  que le non-respect du cahier des charges.",,C1,C1,C1
+553,Nous prendrons toutes les mesures pour éviter que cela nuise au personnel et à notre image de marque.,,B2,B2,B2
+554,"Nous nous engageons à vous tenir au
+  courant des relations que nous aurons avec nos nouveaux partenaires.",,B2,B2,B2
+555,"De toute façon, quels que soient le nombre et le type de sous-traitants, nous devons garder
+  la maîtrise de toute la chaîne, puisque nous sommes responsables de nos médicaments.",,B2,B2,B2
+556,"Il ne
+  faut pas oublier que les contrôles se renforcent partout.",,B2,B2,B2
+557,"En effet, l’industrie pharmaceutique
+  est un métier où le contrôle de la qualité est essentiel.",,B2,B2,B2
+558,"Nous devons rendre des comptes à
+  l’ensemble des consommateurs et à notre politique nationale de santé.",,B2,B2,B2
+559,"Paradoxalement,
+  les obligations réglementaires très strictes facilitent le développement de la sous-traitance
+  et renforceront par conséquent notre dynamisme économique.",,B2,B2,B2
+560,Il y a des dettes publiques mais il y aussi beaucoup de créanciers privés.,,B2,B2,B2
+561,Il y a essentiellement trois grandes catégories.,,B2,B2,B2
+562,"Ce qu’on appelle les créanciers publics bilatéraux, c’est-à-dire les États.",,B2,B2,B2
+563,"L’important, évidemment, pour les contribuables européens qui voudraient annuler leur dette, c’est que chacun des créditeurs, des créanciers soit traité de la même façon.",,B2,B2,B2
+564,"L’ordre de grandeur pour le moment, par exemple pour l’Afrique est environ 350 milliards d’euros de dette à l’égard de ses créanciers.",,B2,B2,B2
+565,"Ça, c’est les ordres de grandeur.",,B1,B2,B2
+566,"Tout ce que font nos experts, c’est de négocier pour s’assurer que l’ensemble des créanciers ont des traitements  comparables.",,B2,B2,B2
+567,la Chine ne veut pas toujours jouer le jeu et pourtant est un créancier majeur sur le continent.,,B2,B2,B2
+568,Est-ce qu’elle va accepter de rentrer dans cette négociation ?,,B2,B2,B2
+569,Et c’est tout l’objetdes discussions qui se passent en ce moment.,,B2,B2,B2
+570,Il y a eu quand même des points très importants.,,B1,B2,B2
+571,"Quand le G20 du 15 avril décide le moratoire, c’est la première fois que la Chine acceptait, dans un cadre multilatéral, de participer à un moratoire.",,C1,B2,B2
+572,"Et aujourd’hui, dans les discussions techniques sur des groupes de travail du G20, la Chine participe et bien.",,B2,B2,B2
+573,"Alors, est-ce qu’elle donne la totalité de ses chiffres ?",,B2,B2,B2
+574,"Sans doute pas, mais je veux dire que la discussion continue, et la Chine donne en plus de plus en plus la… augmente le montant des chiffres qui sont soumis au moratoire.",,B2,B2,B2
+575,C’est les discussions d’aujourd’hui.,,A2,A2,A2
+576,"Mais vous avez peut-être vu également, le communiqué indique que les ministres des Finances se sont mis d’accord.",,B2,B2,B2
+577,Il faut admettre avec un égal intérêt ces théories d'art si différentes et juger les oeuvres qu'elles produisent uniquement au point de vue de leur valeur artistique en acceptant a priori les idées générales d'où elles sont nées.,,C1,C1,C1
+578,"Contester le droit d'un écrivain de faire une oeuvre poétique ou une oeuvre réaliste, c'est vouloir le forcer à modifier son tempérament, récuser son originalité, ne pas lui permettre de se servir de l'oeil et de l'intelligence que la nature lui a donnés.",,C1,C1,C1
+579,"Lui reprocher de voir les choses belles ou laides, petites ou épiques, gracieuses ou sinistres, c'est lui reprocher d'être conformé de telle ou telle façon et de ne pas avoir une vision concordant avec la nôtre.",,C1,C1,C1
+580,"Laissons-le libre de comprendre, d'observer, de concevoir comme il lui plaira, pourvu qu'il soit un artiste.",,C1,C1,C1
+581,"Devenons poétiquement exaltés pour juger un idéaliste et prouvons-lui que son rêve est médiocre, banal, pas assez fou ou magnifique.",,C1,C1,C1
+582,"Mais si nous jugeons un naturaliste, montrons-lui en quoi la vérité dans la vie diffère de la vérité dans son livre.",,C1,C1,C1
+583,Il est évident que des écoles si différentes ont dû employer des procédés de composition absolument opposés.,,C1,C1,C1
+584,"Le romancier qui transforme la vérité constante, brutale et déplaisante, pour en tirer une aventure exceptionnelle et séduisante, doit, sans souci exagéré de la vraisemblance, manipuler les événements à son gré; les préparer et les arranger pour plaire au lecteur, l'émouvoir ou l'attendrir.",,C1,C1,C1
+585,Le plan de son roman n'est qu'une série de combinaisons ingénieuses conduisant avec adresse au dénouement.,,C1,C1,C1
+586,"Les incidents sont disposés et gradués vers le point culminant et l'effet de la fin, qui est un événement capital et décisif, satisfaisant toutes les curiosités éveillées au début, mettant une barrière à l'intérêt, et terminant si complètement l'histoire racontée qu'on ne désire plus savoir ce que deviendront, le lendemain, les personnages les plus attachants.",,C1,C1,C1
+587,"Le romancier, au contraire, qui prétend nous donner une image exacte de la vie, doit éviter avec soin tout enchaînement d'événements qui paraîtrait exceptionnel.",,C1,C1,C1
+588,"Son but n'est point de nous raconter une histoire, de nous amuser ou de nous attendrir, mais de nous forcer à penser, à comprendre le sens profond et caché des événements.",,C1,C1,C1
+589,"A force d'avoir vu et médité il regarde l'univers, les choses, les faits et les hommes d'une certaine façon qui lui est propre et qui résulte de l'ensemble de ses observations réfléchies.",,C1,C1,C1
+590,C'est cette vision personnelle du monde qu'il cherche à nous communiquer en la reproduisant dans un livre.,,C1,C1,C1
+591,"Pour nous émouvoir, comme il l'a été lui-même par le spectacle de la vie, il doit la reproduire devant nos yeux avec une scrupuleuse ressemblance.",,C1,C1,C1
+592,"Il devra donc composer son oeuvre d'une manière si adroite, si dissimulée, et d'apparence si simple, qu'il soit impossible d'en apercevoir et d'en indiquer le plan, de découvrir ses intentions.",,C1,C1,C1
+593,"Au lieu de machiner une aventure et de la dérouler de façon à la rendre intéressante, jusqu'au dénouement, il prendra son ou ses personnages à une certaine période de leur existence et les conduira, par des transitions naturelles, jusqu'à la période suivante.",,C1,C1,C1
+594,"Il montrera de cette façon, tantôt comment les esprits se modifient sous l'influence des circonstances environnantes, tantôt comment se développent les sentiments et les passions, comment on s'aime, comment on se hait, comment on se combat dans tous les milieux sociaux, comment luttent les intérêts bourgeois, les intérêts d'argent, les intérêts de famille, les intérêts politiques.",,C1,C1,C1
+595,"L'habileté de son plan ne consistera donc point dans l'émotion ou dans le charme, dans un début attachant ou dans une catastrophe émouvante, mais dans le groupement adroit de petits faits constants d'où se dégagera le sens définitif de l'oeuvre.",,C1,C1,C1
+596,"S'il fait tenir dans trois cents pages dix ans d'une vie pour montrer quelle a été, au milieu de tous les êtres qui l'ont entourée, sa signification particulière et bien caractéristique, il devra savoir éliminer, parmi les menus événements innombrables et quotidiens, tous ceux qui lui sont inutiles, et mettre en lumière, d'une façon spéciale, tous ceux qui seraient demeurés inaperçus pour des observateurs peu clairvoyants et qui donnent au livre sa portée, sa valeur d'ensemble.",,C1,C1,C1
+597,"On comprend qu'une semblable manière de composer, si différente de l'ancien procédé visible à tous les yeux; déroute souvent les critiques, et qu'ils ne découvrent pas tous les fils si minces, si secrets, presque invisibles, employés par certains artistes modernes à la place de la ficelle unique qui avait nom : l'Intrigue.",,C1,C1,C1
+598,"En somme, si le Romancier d'hier choisissait et racontait les crises de la vie, les états aigus de l'âme et du coeur, le Romancier d'aujourd'hui écrit l'histoire du coeur, de l'âme et de l'intelligence à l'état normal.",,C1,C1,C1
+599,"Pour produire l'effet qu'il poursuit, c'est-à-dire l'émotion de la simple réalité et pour dégager l'enseignement artistique qu'il en veut tirer, c'est-à-dire la révélation de ce qu'est véritablement l'homme contemporain devant ses yeux, il devra n'employer que des faits d'une vérité irrécusable et constante.",,C1,C1,C1
+600,"Mais en se plaçant au point de vue même de ces artistes réalistes, on doit discuter et contester leur théorie qui semble pouvoir être résumée par ces mots : Rien que la vérité et toute la vérit.",,C1,C1,C1
+601,"Leur intention étant de dégager la philosophie de certains faits constants et courants, ils devront souvent corriger les événements au profit de la vraisemblance et au détriment de la vérité, car le vrai peut quelquefois n'être pas vraisemblable.",,C1,C1,C1
+602,"Le réaliste, s'il est un artiste, cherchera, non pas à nous montrer la photographie banale de la vie, mais à nous en donner la vision plus complète, plus saisissante, plus probante que la réalité même.",,C1,C1,C1
+603,"Raconter tout serait impossible, car il faudrait alors un volume au moins par journée, pour énumérer les multitudes d'incidents insignifiants qui emplissent notre existence.",,C1,C1,C1
+604,"Un choix s'impose donc, ce qui est une première atteinte à la théorie de toute la vérité.",,C1,C1,C1
+605,"La vie, en outre, est composée des choses les plus différentes, les plus imprévues, les plus contraires, les plus disparates; elle est brutale, sans suite, sans chaîne, pleine de catastrophes inexplicables, illogiques et contradictoires qui doivent être classées au chapitre faits divers.",,C1,C1,C1
+606,"Voilà pourquoi l'artiste, ayant choisi son thème, ne prendra dans cette vie encombrée de hasards et de futilités que les détails caractéristiques utiles à son sujet, et il rejettera tout le reste, tout l'à-côté.",,C1,C1,C1
+607,Un exemple entre mille : le nombre des gens qui meurent chaque jour par accident est considérable sur la terre.,,C1,C1,C1
+608,"Mais pouvons-nous faire tomber une tuile sur la tête d'un personnage principal, ou le jeter sous les roues d'une voiture, au milieu d'un récit, sous prétexte qu'il faut faire la part de l'accident?",,C1,C1,C1
+609,"La vie encore laisse tout au même plan, précipite les faits ou les traîne indéfiniment.",,C1,C1,C1
+610,"L'art, au contraire, consiste à user de précautions et de préparations, à ménager des transitions savantes et dissimulées; à mettre en pleine lumière, par la seule adresse de la composition, les événements essentiels et à donner à tous les autres le degré de relief qui leur convient, suivant leur importance, pour produire la sensation profonde de la vérité spéciale qu'on veut montrer.",,C1,C1,C1
+611,"Faire vrai consiste donc à donner l'illusion complète du vrai, suivant la logique ordinaire des faits, et non à les transcrire servilement dans le pêle-mêle de leur succession.",,C1,C1,C1
+612,J'en conclus que les Réalistes de talent devraient s'appeler plutôt des Illusionnistes.,,C1,C1,C1
+613,"Quel enfantillage, d'ailleurs, de croire à la réalité puisque nous portons chacun la nôtre dans notre pensée et dans nos organes.",,C1,C1,C1
+614,"Nos yeux, nos oreilles, notre odorat, notre goût différents créent autant de vérités qu'il y a d'hommes sur la terre.",,C1,C1,C1
+615,"Et nos esprits qui reçoivent les instructions de ces organes, diversement impressionnés, comprennent, analysent et jugent comme si chacun de nous appartenait à une autre race.",,C1,C1,C1
+616,"Chacun de nous se fait donc simplement une illusion du monde, illusion poétique, sentimentale, joyeuse, mélancolique, sale ou lugubre suivant sa nature.",,C1,C1,C1
+617,Et l'écrivain n'a d'autre mission que de reproduire fidèlement cette illusion avec tous les procédés d'art qu'il a appris et dont il peut disposer.,,C1,C1,C1
+618,Illusion du beau qui est une convention humaine!,,C1,C1,C1
+619,Illusion du laid qui est une opinion changeante!,,C1,C1,C1
+620,Illusion du vrai jamais immuable!,,C1,C1,C1
+621,Illusion de l'ignoble qui attire tant d'êtres!,,C1,C1,C1
+622,Les grands artistes sont ceux qui imposent à l'humanité leur illusion particulière.,,C1,C1,C1
+623,Ne nous fâchons donc contre aucune théorie puisque chacune d'elles est simplement l'expression généralisée d'un tempérament qui s'analyse.,,C1,C1,C1
+624,"Au cours des années 1970 et 1980, plusieurs groupes d'environnementalistes de pays industrialisés d'Europe de l'ouest et d'Amérique du Nord ont organisé des campagnes contre la chasse aux baleines et aux phoques.",,C1,C1,C1
+625,"Certaines de ces organisations, comme Greenpeace, reconnaissent que les autochtones ont un droit de prendre des animaux et de préserver leur culture.",,C1,C1,C1
+626,Ils insistent cependant afin que les animaux soient chassés seulement selon la méthode 'traditionnelle' ce qui exclut l'emploi de fusils de haute portée ou de bateaux mécanisés.,,C1,C1,C1
+627,"D'autres, comme le Front de Libération des Animaux (Animal Liberation Front), considèrent la chose du point de vue animal et soutiennent que les animaux ne doivent pas être considérés comme des 'ressources renouvelables' assujetties à l'exploitation humaine.",,C1,C1,C1
+628,Ces gens disent parfois que les cultures qui dépendent de la chasse n'ont pas du tout le droit de survivre.,,C1,C1,C1
+629,"Ce mouvement tout entier concentre son attention sur la nature, particulièrement la faune sauvage, plutôt que sur l'humanité et la science.",,C1,C1,C1
+630,Une autre organisation qui produit sa part d'impact sur les peuples autochtones de la côte est la Commission baleinière internationale.,,C1,C1,C1
+631,La Commission a imposé un moratoire international sur la chasse à la baleine et connaît des difficultés à faire la distinction entre la chasse à la baleine à des fins commerciales et la chasse à des fins de subsistance telle que pratiquée par les autochtones pour vivre et se nourrir.,,C1,C1,C1
+632,Les peuples des côtes de l'Alaska ont été particulièrement touchés par cette politique.,,C1,C1,C1
+633,Les gens du Grand Nord ont toujours valorisé l'autonomie de l'individu.,,C1,C1,C1
+634,"Ils ne peuvent travailler dans des usines au milieu de nulle part, et ne veulent pas que leur existence repose sur la sécurité sociale de leurs gouvernements, dans le sud.",,C1,C1,C1
+635,"En fait, les peuples de l'Arctique ne peuvent exister indépendamment de leur environnement.",,C1,C1,C1
+636,Leur mode de vie repose comme depuis toujours sur la prise d'animaux.,,C1,C1,C1
+637,"Sur la côte, ils chassent les phoques et les baleines tandis qu'à l'intérieur des terres, ils y élèvent le renne.",,C1,C1,C1
+638,"La chasse leur permet de trouver leur nourriture et de pouvoir acheter les articles nécessaires à la vie quotidienne, comme le kérosène, les médicaments, les fusils, et les billets d'avion.",,C1,C1,C1
+639,"Depuis le Grand Nord, la défense des droits des animaux est perçue comme une attaque au cœur de la culture des peuples aborigènes et contre leur droit à l'existence même.",,C1,C1,C1
+640,"Cette attaque est menée par des gens qui en savent peu sur la vie du Grand Nord, qui sont eux mêmes très loin du monde des animaux et qui ont le luxe de différentes options quant à la façon dont ils souhaitent euxmêmes vivre.",,C1,C1,C1
+641,"Les adeptes de ces campagnes soulignent que les animaux devraient être tués seulement à des fins alimentaires, une politique qui, si elle était appliquée laisserait les autochtones sans la moindre monnaie d'échange pour se procurer des médicaments.",,C1,C1,C1
+642,"Au nom du mot 'tradition,' ils demandent que les autochtones se conforment à celles-ci.",,C1,C1,C1
+643,"Rosalie Little Thunder, amérindienne sioux Lakota, prie pour que l'hiver ne soit pas trop rigoureux dans le Wyoming.",,C1,C1,C1
+644,"Depuis plusieurs années, la présidente de la Seventh Generation Fund, une association de défense des droits autochtones, se bat pour la sauvegarde des bisons du parc de Yellowstone, la seule horde sauvage existant encore aux Etats-Unis.",,C1,C1,C1
+645,Chaque hiver constitue une nouvelle menace.,,B2,B2,B2
+646,"En 2001, Rosalie a expliqué à l'ONU, auprès du groupe de travail sur les peuples autochtones, en quoi la survie des bisons sauvages est essentielle et symbolique pour les Indiens des plaines.",,C1,C1,C1
+647,"Le bison a toujours été un animal sacré pour les Indiens des plaines, crucial dans leur culture.",,C1,C1,C1
+648,"Et l'abattage d'un tiers du troupeau de Yellowstone, à l'hiver 1996-1997, par les éleveurs de bétail du Montana, a meurtri les tribus indiennes.",,C1,C1,C1
+649,"«Cela a été le pire moment de ma vie», se souvient Rosalie.",,B2,B2,B2
+650,Comme un rappel du massacre des quelque 60 millions de bisons orchestré à la fin du XIXe siècle pour venir à bout des «PeauxRouges».,,C1,C1,C1
+651,"«Entre 1860 et 1880, les bisons ont été éliminés par les Blancs pour nous enlever ce qui faisait notre vie : le coeur de notre culture, de notre spiritualité, mais aussi notre principale ressource et source d'alimentation».",,C1,C1,C1
+652,"En 1880, il n'en reste que quelques centaines aux Etats-Unis.",,B1,B1,B1
+653,"Ils se réfugient au Wyoming tandis que les tribus indiennes, affamées et épuisées, se rendent.",,C1,C1,C1
+654,"En 1902, pour éviter l'extinction, le parc national de Yellowstone (Wyoming) prend en charge vingt et un bisons : ils deviennent la première espèce animale protégée.",,C1,C1,C1
+655,"Année après année, le troupeau prospère jusqu'à compter, en 1996, 3 500 têtes.",,C1,C1,C1
+656,"Mais cette année-là, l'hiver est très rude.",,B2,B2,B2
+657,Neige épaisse et glace empêchent les bisons d'atteindre l'herbe.,,C1,C1,C1
+658,"Leur instinct les pousse à migrer à la recherche de nourriture jusqu'au Montana, qui borde le parc national au nord et à l'ouest.",,C1,C1,C1
+659,"Or les éleveurs du Montana craignent que les bisons transmettent à leurs bovins la brucellose, une maladie qui provoque l'avortement.",,C1,C1,C1
+660,"Selon les services vétérinaires, la moitié des bisons de Yellowstone ont été exposés à la brucellose.",,C1,C1,C1
+661,"Alors, en quelque mois, éleveurs et fonctionnaires du Montana abattent, avec l'accord du parc, plus de 1000 bisons sans même vérifier s'ils sont porteurs de brucellose.",,C1,C1,C1
+662,"Les tribus indiennes découvrent le massacre quand, amer détour de l'histoire, les autorités du Montana leur proposent d'en profiter pour s'approvisionner en viande.",,C1,C1,C1
+663,"La manière dont on traite les bisons est celle dont on traite les Indiens, dit Rosalie.",,C1,C1,C1
+664,"Comme nous, ce sont des survivants.",,B1,B1,B1
+665,"Nos prophéties disent que tant qu'il y aura des bisons sauvages, nous survivrons.",,C1,C1,C1
+666,"C'est une question de vie ou de mort, martèle Sheila Watt-Cloutier.",,C1,C1,C1
+667,On ne sera pas des victimes impuissantes : on va se battre pour notre droit de subsistance.,,C1,C1,C1
+668,"Après un discours remarqué, mercredi à Milan, lors de la 9e conférence des Nations unies sur le climat, la présidente de la Conférence circumpolaire des Inuits (CCI) enfonce le clou.",,C1,C1,C1
+669,"Elle confirme que l'organisation qui représente 155 000 Inuits du Canada, d'Alaska, du Groenland et de Russie envisage de déposer un recours juridique devant la Commission interaméricaine des droits de l'homme.",,C1,C1,C1
+670,"La raison invoquée : la mise en péril du mode de vie ancestral du peuple Inuit, du fait des changements climatiques provoqués par les activités humaines.",,C1,C1,C1
+671,"Les gens s'inquiètent de la disparition des ours polaires d'ici 2070 parce qu'ils n'auront plus de banquise où aller chasser le phoque, mais les Inuits aussi font face à l'extinction pour les mêmes raisons et dans le même temps.",,C1,C1,C1
+672,"Pour manger, «vous allez au supermarché, nous, nous allons sur la banquise.",,C1,C1,C1
+673,Manger ce qu'on chasse est au coeur de ce que signifie être Inuit.,,C1,C1,C1
+674,"Quand on ne pourra plus chasser sur la glace, comment allons-nous nous définir ?",,C1,C1,C1
+675,"Considérant que leurs droits humains sont violés par les pays qui refusent de signer le protocole de Kyoto (Etats-Unis en tête), les Inuits songent à emprunter la voie juridique en invoquant la Déclaration des droits de l'homme de 1948.",,C1,C1,C1
+676,Une manière originale d'aborder la question du réchauffement planétaire qui pourrait inciter au dialogue.,,C1,C1,C1
+677,"L'objectif étant de susciter un changement d'attitude et un engagement à long terme, et non d'obtenir une quelconque compensation financière, assure-t-on.",,C1,C1,C1
+678,"Un procès, par ailleurs coûteux et technique, n'est pour l'instant pas envisagé Quant à la Commission qui étudiera leur cause, et qui sera invitée à venir constater sur place les impacts humains.",,C1,C1,C1
+679,Les Inuits attendent seulement d'elle une déclaration politique.,,C1,C1,C1
+680,"On cherche à attirer l'attention du monde entier sur notre situation critique, reconnaît la présidente de la CCI qui parle «d'éduquer» et «d'informer» les citoyens.",,C1,C1,C1
+681,"John Keogak, 45 ans, chasseur à Sachs Harbour, reconnaît l'impact médiatique de la mesure, mais entretient peu d'illusions sur son efficacité.",,C1,C1,C1
+682,"«Les Etats-Unis ne vont probablement même pas écouter ce qu'on a à dire», soupire-t'il.",,C1,C1,C1
+683,"Cette communauté arctique d'une centaine d'âmes, isolée sur une île de la mer de Beaufort, a répertorié les changements observés depuis le début des années 90 : hivers moins rigoureux, hausse du niveau de la mer, formation de la glace plus tard dans la saison et dégel avancé, fonte du permafrost, arrivée de nouvelles espèces animales (rouges-gorges, saumons).",,C1,C1,C1
+684,"«Il n'est désormais pas toujours possible d'aller sur la glace au moment des migrations des animaux et donc de pouvoir constituer nos stocks», constate John Keogak, qui s'est déjà retrouvé pris au piège sur une plaque de glace détachée de la banquise.",,C1,C1,C1
+685,Il a dérivé pendant deux jours avant d'être secouru.,,B2,B2,B2
+686,«Il faut aussi attendre plus longtemps avant que les fourrures des animaux soient d'une épaisseur convenable».,,C1,C1,C1
+687,"Lui qui, enfant, suivait sa mère trappeur, peut encore aujourd'hui emmener son fils de 14 ans chasser, mais dit craindre la réduction des quotas de chasse pour les ours polaires.",,C1,C1,C1
+688,On se sent menacés.,,A2,A2,A2
+689,On ne sait pas à quoi va ressembler demain.,,B2,B2,B2
+690,"Tout le monde ici ne parle que du temps qui change, et de la pollution, des voitures, des feux de forêts.",,C1,C1,C1
+691,Le recours devant la Commission des droits de l'homme qui devrait être officiellement validé par le conseil de la CCI au printemps pourrait nécessiter d'un à cinq ans de travaux de documentation avant d'être déposé.,,C1,C1,C1
+692,Les Inuits espèrent pouvoir s'appuyer sur un rapport qui sera remis en septembre 2004 aux huit pays du Conseil de l'Arctique.,,C1,C1,C1
+693,Ce sera l'étude la plus complète sur les changements climatiques régionaux.,,C1,C1,C1
+694,"Ce document prévoit, à l'exception de la zone la plus proche du pôle Nord, la disparition des glaces permanentes de l'océan Arctique d'ici à la fin du siècle.",,C1,C1,C1
+695,"La 9e conférence des Nations unies sur le climat s'est achevée hier, dans une ambiance mi-figue, mi-raisin.",,C1,C1,C1
+696,Tour d'horizon du bilan de ces douze jours de tractations.,,C1,C1,C1
+697,C'est l'un des points essentiels du protocole de Kyoto.,,B2,B2,B2
+698,"Il prévoit que les plantations de forêts sont déductibles des émissions de gaz à effet de serre (GES), puisque les arbres croissent en pompant le gaz carbonique dans l'air.",,C1,C1,C1
+699,Il faut planter deux arbres pour piéger les rejets liés au voyage aller-retour en avion d'une personne entre Milan et New York.,,C1,C1,C1
+700,Le sommet de Milan a permis de préciser ce que seront les «puits de carbone».,,C1,C1,C1
+701,"Sont éligibles les forêts d'arbres de plus de deux mètres, dont le feuillage recouvre plus du dixième de la surface.",,C1,C1,C1
+702,"Les écologistes n'ont pas réussi à faire exclure les plantations ne comportant qu'une seule essence, ni l'utilisation d'espèces «aliens» et de variétés transgéniques.",,C1,C1,C1
+703,"En revanche, les Etats pourront refuser l'utilisation de ces arbres OGM en fonction de leur législation.",,C1,C1,C1
+704,Une clause qui a provoqué la colère des Etats-Unis.,,C1,C1,C1
+705,"Le pays, qui pèse 17 % des émissions de GES, doit impérativement ratifier le protocole de Kyoto pour que celui-ci entre en vigueur.",,C1,C1,C1
+706,Moscou a soufflé le chaud et le froid depuis plusieurs jours.,,C1,C1,C1
+707,"Certains responsables craignent que le protocole ne handicape la croissance économique, tandis que d'autres mettent en avant les profits que rapporterait la vente de permis de polluer.",,C1,C1,C1
+708,"Pour faire pression, l'Italie pourrait investir dans la réduction d'émission de GES en Russie, en cas de ratification.",,C1,C1,C1
+709,"De son côté, la délégation américaine a tenté de persuader Moscou de ne pas approuver le texte, arguant que les technologies du futur permettraient de réduire les émissions de GES sans contrainte.",,C1,C1,C1
+710,Aucune décision russe n'est attendue avant l'élection présidentielle de mars.,,C1,C1,C1
+711,"A Marrakech en 2001, 15 pays avaient décidé de créer un fonds spécial changements climatiques.",,C1,C1,C1
+712,"Doté de 410 millions de dollars, il servira à financer l'adaptation des pays du Sud et le développement d'énergies propres.",,C1,C1,C1
+713,"Ironie du sort, les richissimes membres de l'Opep souhaitent que ce fonds finance leur «diversification économique», rendue obligatoire par la chute à venir des exportations de pétrole.",,C1,C1,C1
+714,Grande-Bretagne et Allemagne refusent de participer si le fonds doit aider ces pays.,,C1,C1,C1
+715,La décision finale sera prise lors de la prochaine conférence à Buenos Aires.,,C1,C1,C1
+716,"«Nous explorons la meilleure voie légale, probablement via le système interaméricain, en invoquant la déclaration des droits de l'homme de 1948».",,C1,C1,C1
+717,"Sheila Watt-Cloutier, présidente de la Conférence circumpolaire des Inuits, a déclaré que les droits des 155 000 Inuits qui vivent au Canada, en Russie, au Groenland.",,C1,C1,C1
+718,Les Inuits pourraient porter plainte contre les Etats-Unis.,,B2,B2,B2
+719,"L'Organisation mondiale de la santé n'hésite pas à parler d'""épidémie mondiale"".",,C1,C1,C1
+720,"Dans les zones urbaines des pays pauvres, les plats gras et sucrés, peu chers et immédiatement disponibles, concurrencent la nourriture traditionnelle, plus coûteuse et plus longue à préparer.",,C1,C1,C1
+721,"Toujours durement touchés par l'insuffisance alimentaire, les pays les plus pauvres de la planète souffrent désormais également de son contraire, c'est-à-dire de l'obésité.",,C1,C1,C1
+722,La FAO (Organisation pour l'alimentation et l'agriculture) estime que 95 % des personnes victimes de sous-alimentation chronique vivent dans les pays en voie de développement.,,C1,C1,C1
+723,"Pour l'un des participants, Francis Delpeuch, directeur de l'unité de recherche nutrition, alimentation et société de l'IRD, à Montpellier (Hérault), l'obésité est un mal nouveau qui frappe désormais les pays en développement, et non plus seulement les pays riches et industrialisés (Europe et Etats-Unis).",,C1,C1,C1
+724,"Selon l'Organisation mondiale de la santé (OMS), on comptait environ 200 millions d'obèses dans le monde en 1995.",,C1,C1,C1
+725,"Cette évaluation atteindrait aujourd'hui les 300 millions de personnes, dont 115 millions dans les pays en développement.",,C1,C1,C1
+726,Ce chiffre devrait encore augmenter dans les prochaines années.,,C1,C1,C1
+727,"A tel point que l'organisation internationale n'hésite pas à parler ""d'épidémie mondiale"".",,C1,C1,C1
+728,Cette évolution de la surcharge pondérale et de l'obésité est constatée dans toutes les grandes régions du globe.,,C1,C1,C1
+729,"En Tunisie, le taux de surpoids est passé d'environ 28 % à 42 % en 1997.",,B1,B1,B1
+730,La Chine et l'Inde connaissent depuis dix ans une augmentation du taux de surpoids de 5 %.,,C1,C1,C1
+731,"Dans les Caraïbes anglophones, 25 % des hommes et 50 % des femmes sont déjà obèses.",,C1,C1,C1
+732,"L'obésité frappe également l'Afrique subsaharienne, où vivent la plupart des populations sous-alimentées du monde (12,1 %), et l'Egypte (33%).",,C1,C1,C1
+733,"L'industrialisation de l'alimentation et le manque d'activité physique, associés à l'urbanisation, expliquent pour une grande part le développement de cette épidémie mondiale, que l'on rencontre surtout dans les villes des pays en voie de développement.",,C1,C1,C1
+734,"Les populations passent alors d'un régime alimentaire traditionnel reposant sur les céréales, racines ou tubercules, comportant une faible proportion de lipides, peu de produits d'origine animale et une forte teneur en fibres, à une alimentation beaucoup plus riche en sucre, en lipides, en sel et, au total, en calories.",,C1,C1,C1
+735,"Ce qui représente un changement considérable pour des populations qui ont, jusqu'à présent, surtout été confrontées à la pénurie.",,C1,C1,C1
+736,"Une étude portant sur 133 pays en développement indique que la migration dans les villes peut entraîner jusqu'à un doublement de la consommation de plats gras et sucrés, peu chers et immédiatement disponibles, au détriment d'une nourriture traditionnelle plus coûteuse et nécessitant un temps plus long de préparation.",,C1,C1,C1
+737,"Selon les auteurs de l'article Cahiers santé, l'accès facile à des huiles peu onéreuses a joué un rôle prépondérant en raison d'une production industrielle généralisée à bas prix.",,C1,C1,C1
+738,Ce qui a entraîné la multiplication par quatre de la consommation des huiles végétales par personne dans le monde au cours des quarante dernières années.,,C1,C1,C1
+739,A cela s'ajoute la diminution de l'activité physique.,,B2,B2,B2
+740,"L'accès à des moyens de transport, la mécanisation du travail et la sédentarisation, l'augmentation des loisirs passifs, comme le cinéma et la télévision, jouent certainement un rôledans les changements observés dans les pays en voie de développement.",,C1,C1,C1
+741,"Malheureusement, seuls les milieux favorisés et plus éduqués sont capables de renverser cette tendance en prenant en compte cet aspect du problème dans leur vie quotidienne.",,C1,C1,C1
+742,"On a ainsi constaté, chez les femmes urbaines de haut niveau socio-économique, au Brésil, 28 % de réduction de la surcharge pondérale de 1989 à 1997.",,C1,C1,C1
+743,"Au final, explique Francis Delpeuch, ce sont les pauvres qui sont les plus touchés par cette montée de l'obésité, car ils n'ont que très peu de marge de manœuvre.",,C1,C1,C1
+744,"Des pauvres, qui, s'ils mangent plus, ne mangent pas mieux.",,C1,C1,C1
+745,"""On pensait autrefois que si les régimes alimentaires étaient suffisamment énergétiques, les micronutriments suivraient"", explique ainsi Barbara Burlingame, fonctionnaire principale de la FAO.",,C1,C1,C1
+746,"""Mais les gens mangent de plus en plus de nourriture bon marché qui remplit l'estomac, sans fournir à l'organisme les oligo-éléments dont il a besoin"".",,C1,C1,C1
+747,"Toutes ces données indiquent ""que le problème de la malnutrition devient plus complexe et que les stratégies de lutte des pays et des organisations internationales devront s'attaquer au triple fardeau qui pèse désormais sur les pays en développement : les maladies infectieuses, les carences alimentaires et les maladies chroniques liées à la surcharge pondérale"", précise Francis Delpeuch.",,C1,C1,C1
+748,Les changements dans les systèmes alimentaires - depuis le champ jusqu'à l'assiette - nécessitent aussi de nouvelles politiques.,,C1,C1,C1
+749,"Dans ce domaine, la recherche et l'action publique ont un rôle essentiel à jouer.",,B2,B2,B2
+750,"Malgré les gains de productivité, la sous-alimentation affecte 840 millions de personnes.",,C1,C1,C1
+751,"Malgré la montée des problèmes liés à l'obésité, la priorité absolue de la FAO reste la lutte contre la faim, car 840 millions de personnes continuent de souffrir chroniquement de sous-alimentation.",,C1,C1,C1
+752,"""Nous sommes donc bien trop loin de l'objectif fixé en 1996 par le Sommet mondial de l'alimentation, qui souhaitait réduire de moitié d'ici 2015 le nombre des victimes de la faim"", doit expliquer le directeur général de la FAO lors de la Journée mondiale de l'alimentation, jeudi 16 octobre, à Rome.",,C1,C1,C1
+753,Jamais auparavant l'humanité n'avait produit autant de nourriture.,,B2,B2,B2
+754,"""Et nous disposons de technologies capables d'accroître considérablement la productivité des exploitations agricoles et de mieux maîtriser les ressources en eau"", précise-t-il.",,C1,C1,C1
+755,"Ce qui manque, c'est la volonté politique de s'attaquer aux causes profondes de la faim sous toutes ses formes.",,C1,C1,C1
+756,"Aussi, la journée du 16 octobre est-elle centrée sur une ""alliance internationale contre la faim"", qui devrait, espère la FAO, jouer un rôle de catalyseur, en mettant en commun les forces de chacun : producteurs d'aliments, consommateurs, organisations internationales, industries agroalimentaires, scientifiques, bailleurs de fonds, groupes religieux et organisations non gouvernementales.",,C1,C1,C1
+757,"Si les centaines de millions d'affamés de la planète sont inacceptables, la situation alimentaire internationale donne pourtant, selon les spécialistes, "" des signes lents mais tangibles d'amélioration"".",,C1,C1,C1
+758,"Ainsi, en cinquante ans, ""la quantité d'aliments disponible pour chaque habitant de la Terre est passée, en moyenne, de 2 320 à 2 800 kilocalories par jour"", expliquait, en 2002, Bertrand Hervieu, président de l'INRA, devant l'Académie des sciences morales et politiques.",,C1,C1,C1
+759,"Une amélioration d'autant plus remarquable que, dans le même temps, la population mondiale a plus que doublé, passant de 2,5 milliards de personnes en 1950 à plus de 6 milliards aujourd'hui.",,C1,C1,C1
+760,Nous sommes dans un monde globalement mieux nourri.,,B2,B2,B2
+761,"Malheureusement, il ne s'agit que de moyenne.",,B1,B1,B1
+762,"Force est de constater que l'écart se creuse entre les pays en développement qui, progressivement, sortent de la pénurie chronique, et ceux qui stagnent ou régressent dans leur combat contre la faim.",,C1,C1,C1
+763,"Ainsi, en Amérique latine, en Asie de l'Est et du Sud-Est, et même au sein du sous-continent indien, de gros progrès ont été accomplis depuis trente ans.",,C1,C1,C1
+764,Mais les pays les plus défavorisés voient leur situation alimentaire se dégrader inexorablement.,,C1,C1,C1
+765,"Le nombre de mal-nourris dans les pays les moins avancés a ainsi doublé au cours des trente dernières années, passant de 116 à 235 millions.",,C1,C1,C1
+766,La malnutrition apparaît donc aujourd'hui comme le résultat d'une organisation inadéquate du système économique et politique.,,C1,C1,C1
+767,"Les guerres, l'instabilité politique sont pour l'essentiel à l'origine des famines et des situations de pénurie qui règnent aujourd'hui dans le monde, précisait encore Bertrand Hervieu.",,C1,C1,C1
+768,"De plus, la malnutrition frappe ceux qui devraient contribuer à nourrir leurs concitoyens : ""Six cents millions de paysans pauvres, victimes de la baisse des prix dictée par la libéralisation des échanges, doivent amputer leurs réserves d'autoconsommation pour renouveler - sans y parvenir bien souvent - leur potentiel de production"".",,C1,C1,C1
+769,"Malgré les progrès accomplis, la situation alimentaire mondiale reste donc préoccupante, surtout si on la met en relation avec les données démographiques.",,C1,C1,C1
+770,"La population mondiale, malgré un net ralentissement, augmente et elle pourrait atteindre 9,3 milliards de personnes en 2050, et plafonner autour de 10,5 à 11 milliards à la fin du XXIe siècle.",,C1,C1,C1
+771,"Or, la croissance démographique concerne surtout les pays en voie de développement, qui connaissent aujourd'hui des problèmes de sous-alimentation et de mauvaise alimentation.",,C1,C1,C1
+772,Vous êtes donc à la rédaction d’Inter spécialiste des questions environnementales et nous fêtons aujourd’hui les trente ans du Conservatoire du littoral.,,C1,C1,C1
+773,"Depuis 1975 l’établissement public a protégé quoi, à peu près 10% du linéaire côtier du béton.",,C1,C1,C1
+774,"Alors dans les années 70, la Côte d’Azur avait déjà sacrifié sa côte à l’urbanisation et, c’est pour éviter que le littoral français ne devienne un mur de béton que le conservatoire a été créé, il rachète depuis les terrains grâce à des fonds publics.",,C1,C1,C1
+775,Et j’imagine qu’il n’est pas facile pour les communes de choisir entre la protection des paysages et les retombées économiques générées par l’urbanisation. ,,C1,C1,C1
+776,"Non non, évidemment, mais elles se rendent compte que le vert peut valoir de l’or et que la nature attire les touristes et c’est souvent de plus en plus et à la demande des communes que le conservatoire agit.",,C1,C1,C1
+777,"C’est le cas par exemple de l’île Tristan dans le Finistère, c’est en face de Douarnenez, une île auparavant privée mais les propriétaires avaient du mal à financer son entretien ; la mairie a appelé le conservatoire au secours.",,C1,C1,C1
+778,Et tous les terrains Nathalie qui ont été acquis par le conservatoire sont effectivement ouverts au public.,,C1,C1,C1
+779,"Et ils sont très fréquentés, imaginez, trente millions de visiteurs par an ça devient d’ailleurs problématique parce que l’entretien coûte de plus en plus cher.",,C1,C1,C1
+780,"Mais justement, n’est-il pas dommage d’aménager des espaces sauvages ?",,C1,C1,C1
+781,Et comment le conservatoire finance-t-il la protection du littoral et l’accueil du public ?,,C1,C1,C1
+782,Et c’est tout ça qu’on appelle le mécénat écologique ?,,C1,C1,C1
+783,Parce que vos produits sont plus chers ?,,B2,B2,B2
+784,"Et si vous avez envie de visiter sur le papier avant d’aller sur le terrain, un très beau livre vient de paraître.",,C1,C1,C1
+785,Elles sont magnifiques et les textes sont très beaux aussi.,,B2,B2,B2
+786,"L’apprentissage du code et plus largement d’une culture générale du numérique à l’école est une mesure réclamée depuis longtemps par l’Académie des sciences, soutenue par des acteurs qui comptent dans le secteur numérique.",,C2,C2,C2
+787,"Selon un sondage publié en mai dernier par BVA (société française de sondages) et le Syntec Numérique (fédération professionnelle du secteur informatique) favorable à la mesure, 87 % des Français seraient même d’accord pour que la programmation informatique soient enseignée à l’école (24 % à partir du primaire, 41 % à partir du collège).",,C2,C2,C2
+788,Mais cette initiative suscite par ailleurs beaucoup de réticences.,,C1,C1,C1
+789,On entend souvent l’argument selon lequel on n’a pas besoin de connaître la mécanique pour apprendre à conduire.,,C1,C1,C1
+790,"Le nombre insuffisant de professeurs formés est également un frein pour beaucoup d’adversaires de cette mesure, qui la jugent inapplicable.",,C2,C2,C2
+791,"Entre ceux qui ne jurent que par l’introduction de l’informatique dans l’enseignement obligatoire, et ceux qui ont peur que l’on veuille transformer le primaire en une grande école d’informatique, il existe pourtant des pistes pour initier les enseignants et favoriser un passage du périscolaire au scolaire, sans avoir à attendre une réforme du socle commun* qui prendra des années.",,C2,C2,C2
+792,"L’action de la fondation La Main à la pâte, qui œuvre depuis près de 20 ans pour enseigner la science différemment à l’école, est un exemple dont on pourrait s’inspirer.",,C2,C2,C2
+793,"La Fondation  à la pâte a été créée en 2011, dans la continuité de l’opération du même nom lancée en 1995 par l’Académie des sciences à l’initiative du prix Nobel de physique.",,C2,C2,C2
+794,"Cette action avait pour objectif, dès l’origine, d’aider les professeurs à enseigner la science et la technologie en mettant en œuvre une pédagogie privilégiant l’expérimentation, la discussion, une pratique active et collective.",,C2,C2,C2
+795,"L’idée était de stimuler chez les élèves l’esprit scientifique et les capacités d’expression, de favoriser leur compréhension du monde, et de leur permettre de mieux jouer leur rôle de citoyen en proposant des projets pédagogiques orientés vers des questions de société (éducation à la santé, au développement durable.",,C2,C2,C2
+796,Chacun de ces projets touche en moyenne 10 000 classes.,,B2,B2,B2
+797,Un beau succès.,,A2,A2,A2
+798,"Une des originalités de la fondation est d’impliquer la communauté scientifique dans la création des ressources pédagogiques, l’accompagnement des classes et la formation continue des enseignants.",,C2,C2,C2
+799,"« Ce qui n’a l’air de rien mais constituait une véritable révolution de palais à l’époque, au ministère de l’éducation nationale », confie Monsieur, responsable du secteur production de ressources.",,C2,C2,C2
+800,"Un enseignement fondé sur l’expérimentation et la pratique, des objectifs d’apprentissage transversaux, des actions tournées en priorité vers la formation continue des enseignants, menées en collaboration avec la communauté scientifique et professionnelle : le travail de défrichage réalisé par la fondation dans le domaine des sciences pourrait s’appliquer parfaitement à la problématique de l’enseignement de la culture informatique.",,C2,C2,C2
+801,"À vrai dire, elle a déjà commencé à réfléchir à la question.",,C1,C1,C1
+802,"Depuis un peu plus de trois ans, elle a commencé à s’intéresser à l’enseignement des mathématiques en lien avec les sciences et la technologie, et, depuis deux ans, aux sciences cognitives, sous l’angle de l’éducation à la santé.",,C2,C2,C2
+803,"En partenariat avec l’INPES (Institut National de Prévention et d’Éducation pour la Santé), elle a mis en place un programme sur l’addiction aux écrans, qui aborde le fonctionnement du cerveau, à la limite des neurosciences.",,C2,C2,C2
+804,Il a rencontré un grand succès dans les écoles.,,B1,B1,B1
+805,Plusieurs milliers de classes ont participé à ce projet.,,B1,B1,B1
+806,"« On s’est alors dit que le terrain commençait à être favorable pour l’informatique », raconte t-il.",,C1,C1,C1
+807,« Le numérique est un pan de la science.,,C1,C1,C1
+808,"Ce ne sont pas des mathématiques appliquées, ni juste de la programmation, ni de l’électronique.",,C2,C2,C2
+809,"» Un projet sortira dans deux ans, en partenariat avec l’INRIA (Institut National de Recherche en Informatique et en Automatique).",,C2,C2,C2
+810,"En attendant, de petites formations d’initiation à l’algorithmique et au langage informatique, ont été réalisées, pour les professeurs des écoles et des collèges, les inspecteurs et les formateurs d’IUFM (Institut Universitaire de Formation des Maîtres).",,C2,C2,C2
+811,"« Le but n’est pas de fabriquer une génération d’ingénieurs informaticiens, explique-t-il.",,C1,C1,C1
+812,Notre pays a intérêt à développer la culture technique et scientifique.,,B2,B2,B2
+813,"Nous vivons dans un monde interconnecté, mais rares sont les personnes qui comprennent comment ça marche.",,C2,C2,C2
+814,"Une conséquence, par exemple, est de ne pas connaître les risques que l’on encourt, notamment en termes de protection des données.",,C2,C2,C2
+815,L’idée est aussi de ne pas être passif dans ses usages de la technologie.,,B2,B2,B2
+816,"Une machine, ça se contrôle, ça obéit à des instructions.",,B2,B2,B2
+817,Mais trop de gens sont encore désarmés face aux ordinateurs.,,C1,C1,C1
+818, Il s’agit vraiment d’introduire l’informatique dans la culture générale.,,B2,B2,B2
+819,"À l’école, on apprend plein de choses qui ne servent à rien dans la vie de tous les jours mais qui fondent une culture et un référentiel commun.",,C2,C2,C2
+820,La science en fait partie.,,B1,B1,B1
+821,"
+ À cet égard, l’apprentissage du code, qui plus est en périscolaire, est limitatif.",,C2,C2,C2
+822,"L’avantage d’un enseignement à l’école, ce sont les liens avec les autres matières, les ponts que sont capables de faire les professeurs.",,C1,C1,C1
+823,"Étudier la différence entre un langage naturel et un langage informatique, c’est intéressant quand on enseigne le français.",,C1,C1,C1
+824,"Pareil pour les mathématiques , poursuit-il.",,B2,B2,B2
+825,Cette notion est très importante.,,B2,B2,B2
+826,"Etymologiquement, l’intelligence, c’est la capacité à faire des liens.",,C1,C1,C1
+827,"L’école doit s’adapter au XXIe siècle
+ Du fait de la progression démographique et du développement des classes moyennes dans le monde, les systèmes éducatifs vont devoir former, d’ici à 2050, autant d’étudiants que durant toute l’histoire de l’humanité réunie.",,C2,C2,C2
+828,"D’ici là, « l’infosphère » continuera son expansion vertigineuse ; la masse de connaissances double déjà tous les deux ans.",,C2,C2,C2
+829,Il est donc grand temps d’anticiper et de repenser la valeur ajoutée de l’enseignement futur.,,C1,C1,C1
+830,L’éducation est censée préparer la jeune génération à l’avenir.,,B2,B2,B2
+831,Mais le fait-elle encore ?,,B2,B2,B2
+832,"Imparfaitement, en tout cas.",,C1,C1,C1
+833,"Une preuve en est que deux millions d’emplois en Europe, nécessitant des compétences scientifiques et technologiques, ne sont pas pourvus ; rien que dans le secteur informatique, il manque cent mille programmeurs.",,C2,C2,C2
+834,"Pour de multiples raisons, l’éducation s’est focalisée sur la spécialisation.",,C2,C2,C2
+835,"Or la grande majorité des jeunes n’auront pas « un » emploi mais « des » emplois tout au long de leur vie, surtout si l’on considère l’accélération des technologies et le fait que les enfants qui terminent leurs études maintenant ne seront à la retraite qu’après 2070.",,C2,C2,C2
+836,"Même à l’université, les études sont trop focalisées et seuls 5 % des étudiants qui ont un doctorat occuperont une fonction académique.",,C2,C2,C2
+837,Les autres seront-ils pour autant formés à un métier ?,,B2,B2,B2
+838,On en doute.,,B1,B1,B1
+839,"Trop se spécialiser dans un environnement qui change sans cesse, c’est comme rouler vite avec des œillères.",,C2,C2,C2
+840,"[…] Dorénavant, il faut que l’enseignement s’intéresse à plusieurs disciplines à la fois.",,C2,C2,C2
+841,"Même si l’on admet que l’innovation sera au rendez-vous, à la croisée des technologies – les nano-, bio-, info-, neuro-,… – on oublie encore qu’il faut être capable d’intégrer en même temps les aspects sociétaux, culturels et autres.",,C2,C2,C2
+842,Alors pourquoi ne pas commencer dès l’école ?,,B2,B2,B2
+843,"Par exemple, l’énergie, la santé, les transports ou le climat peuvent être des thèmes de synthèse intégrant la géographie, l’histoire, la chimie, les mathématiques, la physique… tout en étant déclinés sous l’aspect culturel, artistique, juridique, politique ou économique.",,C2,C2,C2
+844,"Pour pallier le manque de compétences transversales, la créativité dans les salles de classe de tous âges pourrait être le fait des élèves eux-mêmes, en devenant des « proconsommateurs » – producteurs et consommateurs – de connaissances.",,C2,C2,C2
+845,"Ceci pourrait donner lieu à des jeux interactifs, qui sont un excellent moyen de mémorisation.",,C2,C2,C2
+846,Cela permettrait enfin de donner plus de sens – comme un lien avec la vie de tous les jours – à des matières qui peuvent être rédhibitoires.,,C2,C2,C2
+847,"En effet, il n’y a pas seulement un problème de contenu, il y a aussi la façon d’enseigner et la motivation d’une finalité.",,C2,C2,C2
+848,[…] La gestion de la complexité sera bien le défi majeur du XXIe siècle.,,C2,C2,C2
+849,"Si l’éducation préparait à « un » avenir, il faudra qu’elle prépare dès à présent à « des » avenirs.",,C2,C2,C2
+850,[…] Qu’en est-il en effet d’une société du savoir si elle n’est pas savante ?,,C2,C2,C2
+851,On ne peut plus repenser le contenu d’une culture scolaire commune en se référant à ce qui existe ou a existé.,,C2,C2,C2
+852,"Nous vivons dans un univers bouleversé par les révolutions scientifiques et technologiques, par de nouvelles pratiques culturelles.",,C2,C2,C2
+853,L’évolution du monde nous oblige à nous ouvrir à une multitude de cultures et de visions.,,C2,C2,C2
+854,Nous devons nous envisager autant comme citoyens du monde que comme héritiers d’une vieille nation.,,C2,C2,C2
+855,L’évolution de la famille et ses conséquences sur l’éducation des enfants participent également de ce renouvellement.,,C2,C2,C2
+856,"Il faut prendre la mesure de ces bouleversements pour repenser les contenus scolaires, les manières de les enseigner et de les apprendre.",,C2,C2,C2
+857,"« Lire, écrire, compter » ne sont plus les seuls apprentissages indispensables.",,C2,C2,C2
+858,"Nous devons apprendre une multitude de langages: scientifiques tels le numérique, les langues étrangères, les langages des sons et des images, le langage du corps.",,C2,C2,C2
+859,Communiquer et penser dans tant de langages impose à l’individu contemporain d’entrer dans des systèmes et des réseaux qu’il doit comprendre et hiérarchiser.,,C2,C2,C2
+860,"Il doit en même temps acquérir des automatismes de lecture et de production d’oraux, d’écrits, d’images ou de gestes.",,C2,C2,C2
+861,L’école doit former les enfants à se séparer de leur comportement d’usagers pour leur faire adopter une position distanciée qui les aidera à considérer ces langages comme des objets et des véhicules du savoir.,,C2,C2,C2
+862,C’est ce décentrage que notre système éducatif ne parvient pas à transmettre aux nombreux élèves en échec.,,C2,C2,C2
+863,Que restera-t-il à la rentrée des acquis de l’année scolaire ?,,C1,C1,C1
+864,Cerveau et seau de plage jouent-ils les vases communicants ?,,C2,C2,C2
+865,"Concentrés toute l’année sur les résultats scolaires de leurs enfants, les parents ne sont pas prêts à laisser le bains de mer ou de soleil délaver les tables de multiplication, les plus-que-parfait de l’indicatif et autres théorèmes de géométrie si chèrement acquis.",,C2,C2,C2
+866,"Pour conjurer les deux mois de vacances, ils achètent donc leur potion en librairie pour un investissement moyen de 7 euros.",,C2,C2,C2
+867,"Cela s’appelle cahier de vacances, et 4,5 millions d’écoliers et d’élèves n’ont d’autre solution que de lui trouver une place dans leur valise.",,C2,C2,C2
+868,"Après, c’est une autre affaire.",,B2,B2,B2
+869,"A tel point que,
+ parmi les parents qui ont investi dans ces produits,
+ 4,4 % déclarent que leur enfant ne l’a jamais
+ ouvert… et 72,2 % qu’il ne l’a utilisé qu’en partie.",,C2,C2,C2
+870,"Des chiffres tirés d’une des rares enquêtes sur le
+ sujet, réalisée en 2000 (publiée en 2001) par
+ l’Institut de recherche sur l’économie de l’éducation  auprès des parents de 2 500 enfants
+ de l’académie.",,C2,C2,C2
+871,"Qu’est-ce qui peut bien poser problème dans
+ ces petits livrets pourtant plutôt attractifs pour que
+ seuls 23,4 % de leurs détenteurs arrivent au
+ bout ?",,C2,C2,C2
+872,"Jeune retraité de l’éducation nationale,
+ Roger Rougier a sa réponse.",,C1,C1,C1
+873,"« Je les ai subis, et je
+ les ai fait subir à mes enfants, jusqu’à ce que j’ose
+ m’en affranchir, résume cet inventeur de produits
+ plus ludiques.",,C2,C2,C2
+874,Je les ai abandonnés le jour où j’ai commencé à faire tenir des cahiers d’été à mes enfants et à créer des jeux avec eux.,,C2,C2,C2
+875,Je me souviens d’un été durant lequel nous nous étions beaucoup déplacés en durant lequel nous nous étions beaucoup déplacés en caravane.,,C2,C2,C2
+876,"En quittant chaque étape, mes enfants
+ dessinaient le lieu ou une personne qu’ils y avaient
+ rencontrée.",,C2,C2,C2
+877,"A la fin des vacances, nous avons assemblé ces vignettes et créé ensemble un jeu de l’oie.",,C1,C1,C1
+878,"Comme support d’échange, ça a été fantastique.",,B2,B2,B2
+879,"Nous
+ ne pouvions pas faire une partie sans que l’un d’eux
+ ne raconte un épisode ou un personnage », rappelle
+ celui qui, ni vu ni connu, a fait, par ce biais,
+ travailler la narration à ses enfants.",,C2,C2,C2
+880,"Fort de ce succès, Roger Rougier a continué à
+ développer cette approche amusante des apprentissages.",,C1,C1,C1
+881,"Très vite, il s’est mis à créer des fiches de
+ logique.",,B2,B2,B2
+882,"« Je l’ai fait pour ma classe parce que les
+ enfants aiment raisonner, que cela les met en
+ confiance et qu’ensuite ils sont disponibles pour une
+ leçon », se souvient-il.",,C2,C2,C2
+883,"Ce qui est étonnant, c’est
+ que les énigmes et les problèmes conçus pour la
+ classe régalent aussi les petits vacanciers.",,C2,C2,C2
+884,"Explication de l’auteur : « Ce sont des jeux qui obligent
+ à une réflexion, un travail intellectuel ; mais l’idée de
+ jeu masque le côté labeur ».",,C2,C2,C2
+885,"Vendus sous forme de
+ petits formats noir et blanc, ses Jeux pour s’entraîner à raisonner ou ses Jeux de calcul mental
+  trompent bien leur petit monde !",,C2,C2,C2
+886,"Pas au
+ point qu’il faille en limiter la consommation, mais
+ tout de même…
+ D’autres éditeurs exploitent le créneau, et
+ Internet regorge de sites intéressants qui permettent une approche moins scolaire, certes, mais
+ tellement plus amusante, des mathématiques.",,C2,C2,C2
+887,"Comme Monsieur, un informaticien fondateur de la librairie des maths, pour
+ qui « il y a tellement de manières d’aimer les
+ mathématiques [qu’il propose] de nombreux produits
+ plus ou moins littéraires, plus ou moins ludiques ».",,C2,C2,C2
+888,"Son espace virtuel, unique en son genre, fête ses
+ deux ans d’existence, et propose une belle collection d’alternatives au cahier de vacances.",,C2,C2,C2
+889,"Si j’étais parent d’un collégien, je lui conseillerais de lire cet été Le Bizarre Incident du chien pendant la nuit, de Mark Haddon , de jouer au Triolet , qui est une sorte de Scrabble des nombres, deux nouveautés intéressantes.",,C2,C2,C2
+890,Mais d’autres pourront préférer L’Assassin des échecs  ou Les Annales du Kangourou (Editions du Kangourou) .,,C2,C2,C2
+891,"Pour JeanChristophe Deledicq, l’essentiel est que l’enfant
+ se fasse plaisir tout en révisant.",,C2,C2,C2
+892,Français et mathématiques sont – personne ne s’en étonnera – les deux disciplines les plus révisées durant l’été.,,C2,C2,C2
+893,"Pour mieux maîtriser son
+ langage en septembre qu’en juin, l’écrivain
+ il propose une approche très personnelle qui
+ n’en finit pas de séduire.",,C2,C2,C2
+894,Cet auteur tellement lu pour sa Grammaire impertinente propose aussi des Jeux pour lire vite.,,C2,C2,C2
+895,De quoi faire aimer la grammaire aux plus récalcitrants !,,B2,B2,B2
+896,"Qui résiste
+ en effet au plaisir de « schtroumpfer » son texte,
+ c’est-à-dire d’y remplacer tous les verbes d’action
+ et les participes passés par le verbe « schtroumpfer », correctement accordé, bien sûr ?",,C2,C2,C2
+897,Qui se refuserait à trouver le plus rapidement possible le mot le plus long d’un petit texte ?,,C2,C2,C2
+898,"Ou à identifier des
+ mots cachés… Le tout, les mains dans les poches,
+ puisque le principe de ces jeux, c’est que l’enfant
+ « travaille » toujours sans crayon.",,C2,C2,C2
+899,"Il croit s’amuser, alors qu’il est en train de travailler !",,B2,B2,B2
+900,"Comme
+ avec Les sorcières sont NRV (Ecole des loisirs), qui
+ n’ont pas pris une ride depuis 1988, et où
+ articles, adverbes et pronoms entrent dans une
+ danse endiablée, ou encore avec LFHE la sorcière
+ (Ecole des loisirs), où cette fois ce sont les adjectifs qui sont prestidigitisés.",,C2,C2,C2
+901,"D’autres auteurs ont
+ exploité ce terrain comme Erik Orsenna et ses
+ Chevaliers du subjonctif, sorti à l’automne 2004.",,C2,C2,C2
+902,"Pour Yak Rivais, le langage fait certes travailler
+ le cerveau, mais aussi l’œil et l’oreille.",,B2,B2,B2
+903,"Celui qui,
+ à 65 ans, apprécie toujours autant ses visites dans
+ les classes, estime que les parents ont parfois trop
+ négligé des choses très simples.",,C2,C2,C2
+904,"A ses yeux, en
+ effet, tout commence avec les comptines, et si
+ autant d’enfants ne maîtrisent pas suffisamment
+ leur langue maternelle aujourd’hui, c’est qu’on
+ a un peu oublié de les aider à développer leur
+ oreille.",,C2,C2,C2
+905,Comment voulez-vous demander une analyse grammaticale ou parler du pronom relatif à un enfant qui n’emploie que des propositions juxtaposées ?,,C2,C2,C2
+906,"Le travail sur le langage
+ doit se faire tous les jours, en aidant l’enfant à
+ construire des phrases de plus en plus élaborées,
+ mais aussi en lui enseignant la musicalité de la
+ langue très jeune grâce à ces comptines, insistet-il.",,C2,C2,C2
+907,Autant d’acquis essentiels qui n’interdisent pas la révision d’un ou deux points pour l’enfant qui en a vraiment besoin ou envie.,,C2,C2,C2
+908,L’idéal est évidemment que le parent sache sur quelles notions son enfant a achoppé durant l’année.,,C2,C2,C2
+909,"Mais, attention, repartir du cours qui n’a pas été compris n’est
+ pas la panacée.",,C2,C2,C2
+910," Si les parents refont l’école à la maison, c’est perdu.",,B2,B2,B2
+911,C’est comme s’ils redonnaient des épinards à celui qui ne les aime pas.,,B2,B2,B2
+912,"S’ils s’y prennent autrement, alors c’est un plus , note elle, une enseignante de CM2.",,C2,C2,C2
+913,"Comme le rappelle le directeur du laboratoire
+ de psychologie cognitive de l’université de, Monsieur, le
+ rôle des parents n’est pas de se transformer en
+ répétiteur, mais de répondre à un besoin ou à une
+ envie.",,C2,C2,C2
+914,"Une limitation d’autant plus efficace que,
+ comme le rappelle le chercheur, « les apprentissages distribués sont plus efficaces que les apprentissages regroupés ».",,C2,C2,C2
+915,"Autrement dit, il ne faut pas
+ dégainer des révisions tous les jours.",,C1,C1,C1
+916,"« Une fois par
+ semaine suffit en général à ne pas oublier une ou deux
+ choses, et un peu plus à la veille de la rentrée »,
+ estime-t-il.",,C2,C2,C2
+917,Juste assez pour prendre la pleine mesure du bonheur d’être en vacances !,,B2,B2,B2
+918,"Bonjour à tous, bienvenue dans Rue des écoles, le rendez-vous de l’éducation de France culture.",,C1,C1,C1
+919,"Aujourd’hui, la classe inversée, une innovation pédagogique qui rencontre un succès sans précédent.",,C1,C1,C1
+920,"On va vous expliquer
+ de quoi il s’agit, et tenter de comprendre ce que signifie ce succès.",,"C1
+","C1
+","C1
+"
+921,"Vous êtes biologiste, militante passionnée de cette pédagogie, vous allez nous expliquer pourquoi le sujet
+ vous passionne.",,C1,C1,C1
+922,J’ajoute que vous êtes aussi fondatrice d’une association : Inversons la classe.,,C2,C2,C2
+923,"Vous êtes professeur agrégé de sciences de la vie et de la terre, vous enseignez au lycée Dorian à Paris,
+ dans le onzième arrondissement, et puis vous menez aussi une activité de recherche en sciences de l’éducation, notamment sur la question de la classe inversée, c’est pour ça que vous êtes avec nous aujourd’hui.",,C2,C2,C2
+924,"Héloïse Dufour, donc je le disais, vous êtes biologiste.",,C1,C1,C1
+925,"C’est parce que vous avez passé beaucoup de temps aux États-Unis
+ ces dernières années que vous avez été sensibilisée à la classe inversée, une pédagogie qui est très répandue outreAtlantique ?",,C2,C2,C2
+926,"Donc j’ai passé ces six dernières années aux États-Unis, et puis, là, j’ai entendu parler de la
+ classe inversée par mes activités d’enseignement, et elle m’a intéressée pour deux raisons principales.",,C2,C2,C2
+927,"La première, c’est
+ que ça me paraît un moyen facilement transmissible de dépasser un enseignement transmissif.",,C2,C2,C2
+928,"Et puis en outre, ça me
+ paraît être un moyen prometteur pour lutter contre les inégalités et le décrochage scolaire.",,C2,C2,C2
+929,"Et, comme vous le disiez, aux
+ États-Unis, c’est vraiment quelque chose qui se répand à la vitesse de l’éclair.",,C1,C1,C1
+930,"Donc, on reprend la définition de la classe inversée, c’est donc apprendre hors de la classe, et faire les
+ exercices avec l’enseignant, ce qui permet de mettre tous les élèves en activité.",,C2,C2,C2
+931,Vous dites que c’est moins inégalitaire ?,,B2,B2,B2
+932,"Pourtant, le travail à la maison, on le sait, les devoirs, c’est très inégalitaire, car tous les enfants n’ont pas
+ les mêmes possibilités de travailler chez eux : possibilités matérielles, la même aide aussi disponible de la part de leurs
+ parents ou de leur entourage.",,C2,C2,C2
+933,"Alors ce qui change dans la classe inversée, c’est la nature même du travail à la maison.",,C1,C1,C1
+934,"dans un enseignement traditionnel, ce qu’on va demander aux élèves à la maison, c’est de faire des exercices
+ qui peuvent être problématiques, même s’ils ont l’aide de les, des parents, et on sait que même dans les familles plus ou
+ moins en difficulté, il y a un investissement des parents important.",,C2,C2,C2
+935,"alors que dans une classe inversée, l’idée c’est de faire un travail à la maison qui est uniquement de regarder des leçons par exemple, ou de vraiment préparer le cours.",,C2,C2,C2
+936,"C’est un travail qui est simple, et qui ne
+ demande pas de capacités spécifiques des parents ou d’enseignants privés par exemple.",,C2,C2,C2
+937,"Donc moi ce que j’ai fait,
+ c’est que j’ai interviewé un certain nombre d’enseignants qui mettent en pratique la classe inversée, et il y en a un certain
+ nombre qui, justement, se saisissent des nouvelles technologies, pour vérifier que le travail à la maison a été fait.",,C2,C2,C2
+938,"C’est à
+ dire que, en même temps qu’ils donnent des ressources à regarder ou à consulter, ils utilisent des questionnaires en ligne
+ pour poser quelques questions très simples, vraiment de compréhension de base sur ce sur quoi portait la leçon, et ça leur
+ permet, avant d’arriver en classe, d’une part de savoir si leurs élèves ont compris, d’autre part, s’ils ont effectivement fait le
+ travail.",,C2,C2,C2
+939,"Et pour les élèves, le fait de savoir que le prof sait, ça change les choses.",,B2,B2,B2
+940,"ça fait partie des possibilités des nouvelles
+ technologies, ça peut être aussi, oui, considéré comme une limite, parce que le contrôle devient, ma foi, très important.",,C2,C2,C2
+941,Il faut aussi s’intéresser aux limites de cette pédagogie.,,B2,B2,B2
+942,"Ça demande quand même un investissement professoral différent,
+ peut-être plus important, parce qu’il faut beaucoup s’impliquer, et puis il faut être très actif dans sa classe.",,C2,C2,C2
+943,"A l’origine, Bergmann et Sams, qui ont véritablement fait découvrir la méthode, ont travaillé
+ avec des capsules vidéo, donc ce qui suppose un enregistrement.",,C2,C2,C2
+944,Il faut les fabriquer.,,B1,B1,B1
+945,"Il faut avoir les compétences, la technologie, pour les fabriquer, ou utiliser des capsules déjà existantes.",,C2,C2,C2
+946,"Mais en règle générale, les enseignants aiment bien travailler avec leurs propres supports.",,B2,B2,B2
+947,"Cela suppose de totalement
+ repenser la classe évidemment, puisque le cours, le modèle transmissif classique doit être fait à la maison, donc il faut
+ d’autres activités en classe, des activités qui vont supposer en effet des questionnaires à choix multiple, ou éventuellement
+ l’utilisation de boîtiers de vote, des ateliers.",,C2,C2,C2
+948,"Donc c’est un travail totalement différent pour l’enseignant, ça suppose un fort
+ investissement, oui.",,C2,C2,C2
+949,"Est-ce que on continue, avec cette classe inversée, à produire aussi des devoirs, des travaux un peu plus
+ longs ?",,C2,C2,C2
+950,"Là on parle de réponses à des Q.C.M, des petits exercices pour vérifier que la leçon a été comprise, mais il y a aussi
+ une mobilisation de ces savoirs, traditionnellement dans la rédaction, la dissertation, dans des travaux un peu plus personnels.",,C2,C2,C2
+951,"J’ai l’impression que on sort un peu de ces exercices, ces pratiques du champ avec la classe inversée ?",,C2,C2,C2
+952,On n’est pas obligé de changer la façon d’évaluer les élèves.,,B2,B2,B2
+953,"Ce qui change vraiment, c’est la façon
+ de favoriser l’accès à la connaissance.",,B1,B1,B1
+954,L’évaluation en elle-même n’a pas lieu forcément d’être changée.,,C1,C1,C1
+955,"Et pour beaucoup d’enseignants que j’ai rencontrés, l’idée c’est pas d’augmenter la somme de travail à la
+ maison, c’est juste vraiment d’en changer la nature.",,C2,C2,C2
+956,"En termes de dissertation, de choses comme ça, moi j’ai rencontré des
+ enseignants, en français par exemple, et qui utilisent la classe inversée pour faire produire aux élèves, en classe, des textes,
+ et pour vraiment travailler avec eux, sur la production d’un texte, comment est-ce qu’on fait.",,C2,C2,C2
+957,"Donc on intervient dans le travail personnel des élèves, c’est le faire avec l’élève.",,C1,C1,C1
+958,C’est passer du face à face au côte à côte.,,B2,B2,B2
+959,Ces pédagogies sont-elles séduisantes ?,,B1,B1,B1
+960,Et pourquoi le sont-elles ?,,B1,B1,B1
+961,"Elles sont séduisantes parce que c’est une rupture avec un modèle qui est ancien, c’est le modèle transmissif.",,C2,C2,C2
+962,"Depuis le Moyen Âge, on est dans un modèle transmissif, avec l’enseignant au centre, les élèves autour, il récite le cours,
+ et une cohorte d’élèves prend le cours.",,C2,C2,C2
+963,"Donc l’idée de la classe inversée, c’est de se positionner de façon très pragmatique
+ où c’est l’élève qui est au centre de la réflexion, c’est l’élève qui va construire son savoir, avec l’aide de l’enseignant et avec
+ l’aide de ses camarades également.",,C2,C2,C2
+964,Donc c’est séduisant parce qu’on remet l’élève au centre de la classe.,,B2,B2,B2
+965,"Une idée qui ne séduit pas tout le monde pourtant, mais finalement, est-ce que la classe inversée, c’est
+ abolir l’idée de transmission ?",,C2,C2,C2
+966,Alors je pense que c’est là qu’il faut préciser qu’il n’y a pas un type de classe inversée.,,C1,C1,C1
+967,Et je pense que c’est pour ça que la classe inversée marche aussi bien.,,C1,C1,C1
+968,On peut faire une classe inversée en restant dans le transmissif.,,B1,B1,B1
+969,On peut faire une classe inversée.,,C2,C2,C2
+970,"c’est toujours l’enseignant qui donne les leçons à l’élève à apprendre, c’est toujours
+ l’enseignant qui donne les exercices, et simplement qui se contente d’aider les élèves en classe.",,C2,C2,C2
+971,"Moi je trouve que la classe
+ inversée, c’est plus intéressant, justement, pour faire des tâches complexes, pour vraiment mettre l’élève en situation de
+ production.",,C2,C2,C2
+972,"Mais, encore une fois, pourquoi est-ce que ça séduit tant de gens ?",,C1,C1,C1
+973,"Je pense que moi, tous les enseignants me l’ont dit, c’est vraiment cette idée d’interaction avec les élèves.",,C2,C2,C2
+974,"Les enseignants qui sont en classe inversée, ils parlent à tous
+ leurs élèves, tous les jours.",,B2,B2,B2
+975,Et là on revient sur pourquoi est-ce que c’est un moyen de lutter contre le décrochage scolaire par exemple ?,,C2,C2,C2
+976,Parce que ça renforce vraiment les interactions entre les enseignants et les élèves.,,B2,B2,B2
+977,"Interactions entre les élèves, on en a un peu parlé, et j’aimerais beaucoup qu’on y revienne, c’est finalement
+ favoriser quelque chose qui est assez laissé de côté, c’est les pédagogies coopératives dans l’école française, pédagogies
+ qui sont peut-être plus adaptées au monde actuel, au monde professionnel aussi, quel que soit le type de métier d’ailleurs
+ auquel on se destine.",,C2,C2,C2
+978,Disons que la coopération fait partie de l’arsenal pédagogique des élèves.,,C1,C1,C1
+979,Surtout avec les nouvelles technologies.,,B2,B2,B2
+980,"Une fois rentrés chez eux, les élèves que j’ai pu étudier au lycée Dorian vont sur des plates-formes, alors pas
+ forcément les plates-formes académiques type ENT, mais vont par exemple sur Facebook, ils coopèrent, ils s’échangent des
+ informations sur les cours, sur les exercices.",,C2,C2,C2
+981,C'est un mode de travail tout à fait normal pour ces élèves.,,B2,B2,B2
+982,Un mode de travail dont ils sont habituellement privés dans un enseignement transmissif.,,C2,C2,C2
+983,"Donc le fait de leur redonner la
+ parole, de réactiver quelque part une dialectique moderne où l’élève va donner son point de vue, essayer d’expliquer à son
+ camarade ce qu’il pense, séduit tout à fait les élèves actuels.",,C2,C2,C2
+984,"Louise Tourret : Ce qu’on peut aussi dire, c’est que l’idée de la classe inversée répond à une problématique tout à fait
+ contemporaine de l’école puisqu’on voit émerger tout un marché d’applications pour apprendre.",,C2,C2,C2
+985,"Des applications qui permettent par exemple de réviser ses tables de multiplication, on peut tout à fait le faire avec une machine, ou les verbes irréguliers, l’orthographe, les conjugaisons, on peut dialoguer avec un ordinateur qui voit le type de fautes qu’on fait, qui conseille
+ en termes de ressources : où est-ce qu’il faut aller chercher ?",,C2,C2,C2
+986,Quelle leçon il faut consulter ?,,B1,B1,B1
+987,"On recentre donc la mission
+ enseignante sur l’humain, si je vous suis bien.",,C2,C2,C2
+988,"Là, encore une fois, je voudrais insister sur le fait que les nouvelles technologies ne
+ sont vraiment pas le point principal de la classe inversée, c’est un facilitateur, mais l’idée c’est vraiment de changer ce qui se
+ passe en classe, d’avoir un enseignant qui est là pour faire apprendre les élèves.",,C2,C2,C2
+989,L’enseignant fait quelque chose que la machine ne pourrait pas faire.,,B2,B2,B2
+990,"Il peut voir si l’élève a compris,
+ l’évaluer.",,B2,B2,B2
+991,"Il y a toujours un petit peu de psychologie, il y a toujours une dimension psychologique dans le fait d’enseigner.",,C2,C2,C2
+992,Qu’est-ce que vous pensez de cette idée ?,,B1,B1,B1
+993,"on est loin de la machine à enseigner, on est vraiment, comme vous le souligniez, dans l’humain,
+ et on redonne la parole à l’élève.",,C2,C2,C2
+994,"certes les technologies ne sont pas forcément, nécessairement présentes.",,C2,C2,C2
+995,"On peut
+ faire de la classe inversée sans technologies.",,B2,B2,B2
+996,"la faire avec des technologies, et là je pense aux
+ travaux d’Éric Masure, où il va travailler avec des boîtiers de vote, ce qui va permettre à des élèves qui habituellement ne
+ s’exprimeraient pas - parce que là c’est un problème, l’expression - de pouvoir donner leur avis, de pouvoir répondre, de
+ pouvoir participer à la classe.",,C2,C2,C2
+997,Donc on modifie complètement la psychologie de l’élève au sein même du groupe classe.,,C1,C1,C1
+998,"
+ des fois on a des surprises, on peut constater, je l’ai constaté moi-même, que des élèves qui pouvaient avoir l’air totalement
+ effacés en fond de classe, eh bien, prenaient goût à la parole, et prenaient goût à la dialectique de façon à s’exprimer et à
+ faire valoir leurs idées.",,C2,C2,C2
+999,Donc c’est très intéressant d’un point de vue psychologique.,,B2,B2,B2
+1000," finalement, ces pédagogies qui peuvent se répandre sans contrôle institutionnel, sans
+ cohérence aussi entre les enseignants ?",,C2,C2,C2
+1001,"On est dans le bricolage, mais dans le bricolage dans l’esprit de Levi-Strauss, c’est à dire l’esprit noble du
+ bricolage.",,C2,C2,C2
+1002,"L’enseignant, l’artisan, dans sa classe, avec ses moyens, avec sa vision, avec ses élèves, dans un univers assez
+ clos, qui va mettre au point sa classe inversée.",,C2,C2,C2
+1003,La classe inversée de Saint-Brieuc n’est sans doute pas celle de Paris.,,B1,B1,B1
+1004,"Ce qui est intéressant, c’est que ce bricolage – c’est un bricolage évolutif – c’est François Jacob qui disait que l’évolution,
+ c’est un bricolage moléculaire où l’on fait du neuf avec du vieux.",,C2,C2,C2
+1005,"Eh bien je pense qu’on est tout à fait dans ce cadre-là, et
+ l’intérêt, c’est ce que c’est un bricolage qui vient de la base.",,C2,C2,C2
+1006,"Ce sont les enseignants qui s’approprient de nouvelles méthodes
+ d’enseignement, et c’est assez nouveau en France.",,C2,C2,C2
+1007,"Et c’est peut-être le gage d’un, du succès.",,C1,C1,C1
+1008,"C’est à dire, ce n’est pas une
+ volonté hiérarchique qui viendrait des ministères ou de l’Académie, ce sont les enseignants qui, il suffit de regarder divers blogues sur internet d’enseignants qui se posent des questions au primaire, secondaire, collège, lycée.",,C2,C2,C2
+1009,"Donc on est dans du bricolage
+ qui vient de la base, qui se répand, donc je pense que c’est quelque chose qui devrait être regardé avec grande attention de
+ la part des instances académiques et ministérielles.",,C2,C2,C2
+1010,"Eh bien ce sera le mot de la fin, merci beaucoup, je rappelle que vous menez des recherches
+ en sciences de l’éducation sur la classe inversée.",,C2,C2,C2
+1011,"Merci Madame, biologiste, vous avez fondé le site, l’association
+ Inversons la classe.",,C1,C1,C1
+1012,Bonne après-midi sur France culture !,,A1,A1,A1
